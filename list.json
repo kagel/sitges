@@ -1,0 +1,380 @@
+{
+  "#time": 1726570761,
+  "#cache": {
+    "tags": [
+      "node_list:location"
+    ]
+  },
+  "locations": [
+    {
+      "id": "359-location",
+      "internal_id": 359,
+      "fiona_id": "75e576b6-6b97-48fc-a4b3-00a3e1239a3c",
+      "name": {
+        "ca": "Sala Tramuntana Meli\u00e1",
+        "es": "Sala Tramuntana Meli\u00e1",
+        "en": "Sala Tramuntana Meli\u00e1"
+      }
+    },
+    {
+      "id": "360-location",
+      "internal_id": 360,
+      "fiona_id": "cde31f55-69ba-474d-b2ca-06e6befb6213",
+      "name": {
+        "ca": "Biblioteca J. Roig i Ravent\u00f3s",
+        "es": "Biblioteca J. Roig i Ravent\u00f3s",
+        "en": "Biblioteca J. Roig i Ravent\u00f3s"
+      }
+    },
+    {
+      "id": "361-location",
+      "internal_id": 361,
+      "fiona_id": "1b05958b-31f7-4fa7-a85c-113c2b8b7ff1",
+      "name": {
+        "ca": "Sala Llevant",
+        "es": "Sala Llevant",
+        "en": "Sala Llevant"
+      }
+    },
+    {
+      "id": "362-location",
+      "internal_id": 362,
+      "fiona_id": "fc2fa6ab-48b7-4777-9e93-1d5573da6c22",
+      "name": {
+        "ca": "Centre Cultural Miramar",
+        "es": "Centre Cultural Miramar",
+        "en": "Centre Cultural Miramar"
+      }
+    },
+    {
+      "id": "363-location",
+      "internal_id": 363,
+      "fiona_id": "11471b5c-0e0c-4650-b2d6-241e062984d4",
+      "name": {
+        "ca": "Jard\u00ed Meli\u00e1",
+        "es": "Jard\u00ed Meli\u00e1",
+        "en": "Jard\u00ed Meli\u00e1"
+      }
+    },
+    {
+      "id": "365-location",
+      "internal_id": 365,
+      "fiona_id": "4447c83b-e808-415e-94f7-2e19f3e089d2",
+      "name": {
+        "ca": "Hall Meli\u00e1",
+        "es": "Hall Meli\u00e1",
+        "en": "Hall Meli\u00e1"
+      }
+    },
+    {
+      "id": "366-location",
+      "internal_id": 366,
+      "fiona_id": "3828257a-260c-434b-ad42-3954f2ff8ec2",
+      "name": {
+        "ca": "Photocall Port",
+        "es": "Photocall Port",
+        "en": "Photocall Port"
+      }
+    },
+    {
+      "id": "367-location",
+      "internal_id": 367,
+      "fiona_id": "ca903862-a60d-4f93-896c-400699f67ee8",
+      "name": {
+        "ca": "Cinema Retiro",
+        "es": "Cinema Retiro",
+        "en": "Cinema Retiro"
+      }
+    },
+    {
+      "id": "368-location",
+      "internal_id": 368,
+      "fiona_id": "e1b95c02-69da-47a1-8dcb-56864c8bf0d9",
+      "name": {
+        "ca": "Carpa Norai",
+        "es": "Carpa Norai",
+        "en": "Carpa Norai"
+      }
+    },
+    {
+      "id": "369-location",
+      "internal_id": 369,
+      "fiona_id": "cc579d5e-cfb3-4cfa-b063-70acf8193cca",
+      "name": {
+        "ca": "Xaloc 1",
+        "es": "Xaloc 1",
+        "en": "Xaloc 1"
+      }
+    },
+    {
+      "id": "370-location",
+      "internal_id": 370,
+      "fiona_id": "c3cebd16-23d8-4a4f-bbf0-75c7008d05bf",
+      "name": {
+        "ca": "Photocall Mirador",
+        "es": "Photocall Mirador",
+        "en": "Photocall Mirador"
+      }
+    },
+    {
+      "id": "372-location",
+      "internal_id": 372,
+      "fiona_id": "9bd03908-99de-4aad-90e8-7cd025a2abd3",
+      "name": {
+        "ca": "Sala Girona Meli\u00e1",
+        "es": "Sala Girona Meli\u00e1",
+        "en": "Sala Girona Meli\u00e1"
+      }
+    },
+    {
+      "id": "373-location",
+      "internal_id": 373,
+      "fiona_id": "d6a05c10-20ee-4d3a-9692-8a4ae035c3c0",
+      "name": {
+        "ca": "Pla\u00e7a de Catalunya (Sitges)",
+        "es": "Pla\u00e7a de Catalunya (Sitges)",
+        "en": "Pla\u00e7a de Catalunya (Sitges)"
+      }
+    },
+    {
+      "id": "374-location",
+      "internal_id": 374,
+      "fiona_id": "4262c908-d6ca-45d9-820a-98b4fd855c1d",
+      "name": {
+        "ca": "Cinema Casino Prado",
+        "es": "Cinema Casino Prado",
+        "en": "Cinema Casino Prado"
+      }
+    },
+    {
+      "id": "375-location",
+      "internal_id": 375,
+      "fiona_id": "51b80bab-cc1b-4124-ae94-9a791b7d089a",
+      "name": {
+        "ca": "Sala Garb\u00ed 1 Meli\u00e1",
+        "es": "Sala Garb\u00ed 1 Meli\u00e1",
+        "en": "Sala Garb\u00ed 1 Meli\u00e1"
+      }
+    },
+    {
+      "id": "376-location",
+      "internal_id": 376,
+      "fiona_id": "b6649606-a5b5-4833-b8be-a14ec5ed231d",
+      "name": {
+        "ca": "Plataforma Online",
+        "es": "Plataforma Online",
+        "en": "Plataforma Online"
+      }
+    },
+    {
+      "id": "377-location",
+      "internal_id": 377,
+      "fiona_id": "9785e026-15fe-4fbd-a973-b656511fa30b",
+      "name": {
+        "ca": "Fundaci\u00f3 Ave Maria",
+        "es": "Fundaci\u00f3 Ave Maria",
+        "en": "Fundaci\u00f3 Ave Maria"
+      }
+    },
+    {
+      "id": "378-location",
+      "internal_id": 378,
+      "fiona_id": "9ffcd7d3-38b8-479f-a9e1-cdbe3808cdd0",
+      "name": {
+        "ca": "Platja de Sant Sebasti\u00e0",
+        "es": "Platja de Sant Sebasti\u00e0",
+        "en": "Platja de Sant Sebasti\u00e0"
+      }
+    },
+    {
+      "id": "379-location",
+      "internal_id": 379,
+      "fiona_id": "5644782b-a9d1-490f-8bbc-dad907cb95f3",
+      "name": {
+        "ca": "Set Fanlab",
+        "es": "Set Fanlab",
+        "en": "Set Fanlab"
+      }
+    },
+    {
+      "id": "380-location",
+      "internal_id": 380,
+      "fiona_id": "6b019ec4-9af6-4b90-b1db-f21eb639192f",
+      "name": {
+        "ca": "Photocall Jard\u00ed Meli\u00e1",
+        "es": "Photocall Jard\u00ed Meli\u00e1",
+        "en": "Photocall Jard\u00ed Meli\u00e1"
+      }
+    },
+    {
+      "id": "381-location",
+      "internal_id": 381,
+      "fiona_id": "23ec5fe1-d056-4dc3-b1e1-f928bd55b942",
+      "name": {
+        "ca": "Port d\u0027Aiguadol\u00e7",
+        "es": "Port d\u0027Aiguadol\u00e7",
+        "en": "Port d\u0027Aiguadol\u00e7"
+      }
+    },
+    {
+      "id": "382-location",
+      "internal_id": 382,
+      "fiona_id": "3500fa82-700b-4ae9-aabb-08650dd3fbae",
+      "name": {
+        "ca": "Exterior Hotel Meli\u00e1",
+        "es": "Exterior Hotel Meli\u00e1",
+        "en": "Exterior Hotel Meli\u00e1"
+      }
+    },
+    {
+      "id": "383-location",
+      "internal_id": 383,
+      "fiona_id": "5435b60e-41b7-47aa-a147-1f68384b31fb",
+      "name": {
+        "ca": "Mercat Vell",
+        "es": "Mercat Vell",
+        "en": "Mercat Vell"
+      }
+    },
+    {
+      "id": "385-location",
+      "internal_id": 385,
+      "fiona_id": "dd1a550e-6971-4150-aea3-268a57f39fee",
+      "name": {
+        "ca": "ESCAC - Terrassa",
+        "es": "ESCAC - Terrassa",
+        "en": "ESCAC - Terrassa"
+      }
+    },
+    {
+      "id": "386-location",
+      "internal_id": 386,
+      "fiona_id": "c156b927-1b4a-4e1b-b30b-2cc265ed4a3a",
+      "name": {
+        "ca": "Sala Garb\u00ed 2 Meli\u00e1",
+        "es": "Sala Garb\u00ed 2 Meli\u00e1",
+        "en": "Sala Garb\u00ed 2 Meli\u00e1"
+      }
+    },
+    {
+      "id": "387-location",
+      "internal_id": 387,
+      "fiona_id": "b6b4b351-5e2b-4bd8-b7ad-4d8870234783",
+      "name": {
+        "ca": "Palau Maricel",
+        "es": "Palau Maricel",
+        "en": "Palau Maricel"
+      }
+    },
+    {
+      "id": "388-location",
+      "internal_id": 388,
+      "fiona_id": "8e924d12-c8b7-48f0-bc33-606792da3799",
+      "name": {
+        "ca": "Espai Jove",
+        "es": "Espai Jove",
+        "en": "Espai Jove"
+      }
+    },
+    {
+      "id": "389-location",
+      "internal_id": 389,
+      "fiona_id": "8e376b76-c5dc-4dc9-9911-665fa04bdc0f",
+      "name": {
+        "ca": "Mercat Municipal",
+        "es": "Mercat Municipal",
+        "en": "Mercat Municipal"
+      }
+    },
+    {
+      "id": "390-location",
+      "internal_id": 390,
+      "fiona_id": "1100b142-a468-4ec5-af28-8241614694a5",
+      "name": {
+        "ca": "Carpa Fnac",
+        "es": "Carpa Fnac",
+        "en": "Carpa Fnac"
+      }
+    },
+    {
+      "id": "391-location",
+      "internal_id": 391,
+      "fiona_id": "5908bd51-e5ac-4e3b-af1b-b7e923e2fe0c",
+      "name": {
+        "ca": "Museu Maricel",
+        "es": "Museu Maricel",
+        "en": "Museu Maricel"
+      }
+    },
+    {
+      "id": "392-location",
+      "internal_id": 392,
+      "fiona_id": "8163696f-f912-4737-8228-c93ce1b102f2",
+      "name": {
+        "ca": "Sala Auditori Meli\u00e1",
+        "es": "Sala Auditori Meli\u00e1",
+        "en": "Sala Auditori Meli\u00e1"
+      }
+    },
+    {
+      "id": "393-location",
+      "internal_id": 393,
+      "fiona_id": "51622617-9330-4b1a-b149-d46aaf4c9060",
+      "name": {
+        "ca": "Ermita de Sant Sebasti\u00e0",
+        "es": "Ermita de Sant Sebasti\u00e0",
+        "en": "Ermita de Sant Sebasti\u00e0"
+      }
+    },
+    {
+      "id": "394-location",
+      "internal_id": 394,
+      "fiona_id": "08a5e064-89b6-41ed-bf99-e96c7e9677d6",
+      "name": {
+        "ca": "Hall Auditori Meli\u00e1",
+        "es": "Hall Auditori Meli\u00e1",
+        "en": "Hall Auditori Meli\u00e1"
+      }
+    },
+    {
+      "id": "395-location",
+      "internal_id": 395,
+      "fiona_id": "f7c283c2-8928-40a6-886a-f6f990bd1de2",
+      "name": {
+        "ca": "Jard\u00ed Prado",
+        "es": "Jard\u00ed Prado",
+        "en": "Jard\u00ed Prado"
+      }
+    },
+    {
+      "id": "947-location",
+      "internal_id": 947,
+      "fiona_id": "online",
+      "name": {
+        "ca": "En l\u00ednia",
+        "es": "En l\u00ednia",
+        "en": "En l\u00ednia"
+      }
+    },
+    {
+      "id": "6333-location",
+      "internal_id": 6333,
+      "fiona_id": "818ba115-421f-4d54-81d7-fea486e2471a",
+      "name": {
+        "ca": "Cinema Escorxador",
+        "es": "Cinema Escorxador",
+        "en": "Cinema Escorxador"
+      }
+    },
+    {
+      "id": "6334-location",
+      "internal_id": 6334,
+      "fiona_id": "eb88d3e5-6d40-4cec-a054-30e6a2783b6e",
+      "name": {
+        "ca": "Exterior Miramar",
+        "es": "Exterior Miramar",
+        "en": "Exterior Miramar"
+      }
+    }
+  ]
+}

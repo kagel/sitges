@@ -1,0 +1,2698 @@
+{
+  "#time": 1726589417,
+  "#cache": {
+    "tags": [
+      "taxonomy_term_list:film_genres",
+      "taxonomy_term_list:film_programme_sections",
+      "taxonomy_term_list:film_categories",
+      "taxonomy_term_list:film_awards",
+      "taxonomy_term_list:film_types",
+      "taxonomy_term_list:film_languages",
+      "taxonomy_term_list:film_countries"
+    ]
+  },
+  "genres": [
+    {
+      "id": "57-film_genres",
+      "internal_id": 57,
+      "fiona_id": "468b73fc-c067-4807-a018-62703a1860bb",
+      "name": {
+        "ca": "Documental",
+        "es": "Documental",
+        "en": "Documentary"
+      }
+    },
+    {
+      "id": "58-film_genres",
+      "internal_id": 58,
+      "fiona_id": "ad766ad7-77a4-4b78-9d60-79bc92776397",
+      "name": {
+        "ca": "Fals documental",
+        "es": "Falso documental",
+        "en": "Mockumentary"
+      }
+    },
+    {
+      "id": "59-film_genres",
+      "internal_id": 59,
+      "fiona_id": "f325bf16-f407-4a4f-b14b-7dfc3807fe64",
+      "name": {
+        "ca": "Ficci\u00f3",
+        "es": "Ficci\u00f3n",
+        "en": "Fiction"
+      }
+    },
+    {
+      "id": "621-film_genres",
+      "internal_id": 621,
+      "fiona_id": "4b1889d0-59a0-4ead-8a78-763bda53df02",
+      "name": {
+        "ca": "Sitges Cl\u00e0ssics",
+        "es": "Sitges Cl\u00e0ssics",
+        "en": "Sitges Cl\u00e0ssics"
+      }
+    },
+    {
+      "id": "715-film_genres",
+      "internal_id": 715,
+      "fiona_id": "05351e89-5818-418f-99fc-3361640c155c",
+      "name": {
+        "ca": "Animaci\u00f3",
+        "es": "Animaci\u00f3n",
+        "en": "Animation"
+      }
+    },
+    {
+      "id": "716-film_genres",
+      "internal_id": 716,
+      "fiona_id": "69bb9009-16cf-4d80-8fb2-3b92c9b03efe",
+      "name": {
+        "ca": "Live action \u0026 Animation",
+        "es": "Live action \u0026 Animation",
+        "en": "Live action \u0026 Animation"
+      }
+    },
+    {
+      "id": "717-film_genres",
+      "internal_id": 717,
+      "fiona_id": "70b1bd3c-420d-4467-872d-8358d08847ff",
+      "name": {
+        "ca": "Live Action",
+        "es": "Live Action",
+        "en": "Live Action"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "90-film_programme_sections",
+      "internal_id": 90,
+      "fiona_id": "82796154-f048-477f-8841-00da7f0982a6",
+      "name": {
+        "ca": "Noves Visions",
+        "es": "Noves Visions",
+        "en": "Noves Visions"
+      }
+    },
+    {
+      "id": "91-film_programme_sections",
+      "internal_id": 91,
+      "fiona_id": "0be416bf-5036-492b-a141-0e313655e503",
+      "name": {
+        "ca": "Sitges Documenta - Sessions especials",
+        "es": "Sitges Documenta - Sessions especials",
+        "en": "Sitges Documenta - Sessions especials"
+      }
+    },
+    {
+      "id": "93-film_programme_sections",
+      "internal_id": 93,
+      "fiona_id": "2fae4fc7-8f3a-423d-bdef-3032d8d0be1d",
+      "name": {
+        "ca": "Anima\u0027t - Fora de Competici\u00f3",
+        "es": "Anima\u0027t - Fuera de Competici\u00f3n",
+        "en": "Anima\u0027t - Out of Competition"
+      }
+    },
+    {
+      "id": "94-film_programme_sections",
+      "internal_id": 94,
+      "fiona_id": "a41ac7f8-0c03-4d42-b926-370970dea2f3",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic Competici\u00f3 - Curts",
+        "es": "Oficial Fant\u00e0stic Competici\u00f3n - Cortos",
+        "en": "Oficial Fant\u00e0stic Competition - Shorts"
+      }
+    },
+    {
+      "id": "95-film_programme_sections",
+      "internal_id": 95,
+      "fiona_id": "515e6139-da1a-46f8-aff3-4907d05f3b63",
+      "name": {
+        "ca": "Sessions Especials",
+        "es": "Sesiones Especiales",
+        "en": "Special Screenings"
+      }
+    },
+    {
+      "id": "96-film_programme_sections",
+      "internal_id": 96,
+      "fiona_id": "c03088a7-0967-4c04-8e87-49cde5dd7680",
+      "name": {
+        "ca": "Brigadoon ",
+        "es": "Brigadoon ",
+        "en": "Brigadoon "
+      }
+    },
+    {
+      "id": "97-film_programme_sections",
+      "internal_id": 97,
+      "fiona_id": "165ac540-e40e-41b0-8d71-4a4ef61aef26",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic Competici\u00f3 ",
+        "es": "Oficial Fant\u00e0stic Competici\u00f3n",
+        "en": "Oficial Fant\u00e0stic Competition"
+      }
+    },
+    {
+      "id": "98-film_programme_sections",
+      "internal_id": 98,
+      "fiona_id": "be05f3cc-08ff-44b1-a5bf-4cb559a0acbc",
+      "name": {
+        "ca": "Panorama Fant\u00e0stic",
+        "es": "Panorama Fant\u00e0stic",
+        "en": "Panorama Fant\u00e0stic"
+      }
+    },
+    {
+      "id": "99-film_programme_sections",
+      "internal_id": 99,
+      "fiona_id": "e668add0-fa3b-440f-a0eb-4ecdfb9d268d",
+      "name": {
+        "ca": "Midnight X-Treme",
+        "es": "Midnight X-Treme",
+        "en": "Midnight X-Treme"
+      }
+    },
+    {
+      "id": "100-film_programme_sections",
+      "internal_id": 100,
+      "fiona_id": "ee8f0433-0fd7-43dd-bb5e-5461884d6e60",
+      "name": {
+        "ca": "Anima\u2019t",
+        "es": "Anima\u2019t",
+        "en": "Anima\u2019t"
+      }
+    },
+    {
+      "id": "102-film_programme_sections",
+      "internal_id": 102,
+      "fiona_id": "df82cb2e-37c9-4e0b-9065-6a1c6659631d",
+      "name": {
+        "ca": "Catalunya Imagin\u00e0ria",
+        "es": "Catalunya Imagin\u00e0ria",
+        "en": "Catalunya Imagin\u00e0ria"
+      }
+    },
+    {
+      "id": "103-film_programme_sections",
+      "internal_id": 103,
+      "fiona_id": "df995d89-1a12-468b-9c39-7ae5862bc4b3",
+      "name": {
+        "ca": "Sitges Cl\u00e0ssics",
+        "es": "Sitges Cl\u00e0ssics",
+        "en": "Sitges Cl\u00e0ssics"
+      }
+    },
+    {
+      "id": "105-film_programme_sections",
+      "internal_id": 105,
+      "fiona_id": "349b31af-71dd-41f4-800f-885882b804ce",
+      "name": {
+        "ca": "Sitges Cl\u00e0ssics - Focus Macros Ocultas",
+        "es": "Sitges Cl\u00e0ssics - Focus Macros Ocultas",
+        "en": "Sitges Cl\u00e0ssics - Focus Macros Ocultas"
+      }
+    },
+    {
+      "id": "106-film_programme_sections",
+      "internal_id": 106,
+      "fiona_id": "3f4f8fd5-40f9-4330-9023-9016e8b642dc",
+      "name": {
+        "ca": "\u00d2rbita - Cloenda",
+        "es": "\u00d2rbita - Clausura",
+        "en": "\u00d2rbita - Closing"
+      }
+    },
+    {
+      "id": "107-film_programme_sections",
+      "internal_id": 107,
+      "fiona_id": "65508ac3-d9c7-42c9-b462-9b2bbe8b5ed4",
+      "name": {
+        "ca": "Seven Chances",
+        "es": "Seven Chances",
+        "en": "Seven Chances"
+      }
+    },
+    {
+      "id": "108-film_programme_sections",
+      "internal_id": 108,
+      "fiona_id": "8486bd8d-0794-4e1c-8e5a-9bd8f86cdd28",
+      "name": {
+        "ca": "Noves Visions - Petit Format",
+        "es": "Noves Visions - Petit Format",
+        "en": "Noves Visions - Petit Format"
+      }
+    },
+    {
+      "id": "110-film_programme_sections",
+      "internal_id": 110,
+      "fiona_id": "71ee59ca-b48f-4524-a76a-a3646191df4d",
+      "name": {
+        "ca": "Anima\u0027t - Curts",
+        "es": "Anima\u0027t - Cortos",
+        "en": "Anima\u0027t - Shorts"
+      }
+    },
+    {
+      "id": "111-film_programme_sections",
+      "internal_id": 111,
+      "fiona_id": "51dec9bd-67dd-4517-97c0-a674e9fe4cda",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic - Fora De Competici\u00f3",
+        "es": "Oficial Fant\u00e0stic - Fuera De Competici\u00f3n",
+        "en": "Oficial Fant\u00e0stic - Out of Competition"
+      }
+    },
+    {
+      "id": "112-film_programme_sections",
+      "internal_id": 112,
+      "fiona_id": "a54f5713-fe9e-4931-b07b-a8406daa9c14",
+      "name": {
+        "ca": "Noves Visions - Sessi\u00f3 especial",
+        "es": "Noves Visions - Sesi\u00f3n especial",
+        "en": "Noves Visions - Special Screenings"
+      }
+    },
+    {
+      "id": "114-film_programme_sections",
+      "internal_id": 114,
+      "fiona_id": "a37e25c2-73f9-4c62-ba44-bf26cc6e4d67",
+      "name": {
+        "ca": "Cloenda - Curt",
+        "es": "Clausura - Corto",
+        "en": "Closing - Short"
+      }
+    },
+    {
+      "id": "117-film_programme_sections",
+      "internal_id": 117,
+      "fiona_id": "ea620ba7-b451-42d3-9213-e0d52a4c254f",
+      "name": {
+        "ca": "Inauguraci\u00f3",
+        "es": "Inauguraci\u00f3",
+        "en": "Inauguraci\u00f3"
+      }
+    },
+    {
+      "id": "118-film_programme_sections",
+      "internal_id": 118,
+      "fiona_id": "926c0383-3d93-4f3e-a617-e1e6e5db5736",
+      "name": {
+        "ca": "Midnight X-Treme - Sessions especials",
+        "es": "Midnight X-Treme - Sesiones especiales",
+        "en": "Midnight X-Treme - Special Screenings"
+      }
+    },
+    {
+      "id": "120-film_programme_sections",
+      "internal_id": 120,
+      "fiona_id": "e5695142-27ee-49c8-8ece-e53f8562c143",
+      "name": {
+        "ca": "Sitges Documenta",
+        "es": "Sitges Documenta",
+        "en": "Sitges Documenta"
+      }
+    },
+    {
+      "id": "123-film_programme_sections",
+      "internal_id": 123,
+      "fiona_id": "4751a0f1-c2c5-461d-9960-f4fdcbf903b6",
+      "name": {
+        "ca": "Noves Visions - Cloenda",
+        "es": "Noves Visions - Clausura",
+        "en": "Noves Visions - Closing"
+      }
+    },
+    {
+      "id": "124-film_programme_sections",
+      "internal_id": 124,
+      "fiona_id": "7709cd69-5d8d-4472-a1ab-f5695c798ac9",
+      "name": {
+        "ca": "\u00d2rbita",
+        "es": "\u00d2rbita",
+        "en": "\u00d2rbita"
+      }
+    },
+    {
+      "id": "125-film_programme_sections",
+      "internal_id": 125,
+      "fiona_id": "571c7972-6a05-4a1a-8f7a-fef75e28f58d",
+      "name": {
+        "ca": "Cloenda",
+        "es": "Clausura",
+        "en": "Closing"
+      }
+    },
+    {
+      "id": "126-film_programme_sections",
+      "internal_id": 126,
+      "fiona_id": "c0cfd78d-bca4-4423-bb5a-b31eca7a62fa",
+      "name": {
+        "ca": "Anima\u0027t - Inauguraci\u00f3",
+        "es": "Anima\u0027t - Inauguraci\u00f3n",
+        "en": "Anima\u0027t - Opening"
+      }
+    },
+    {
+      "id": "129-film_programme_sections",
+      "internal_id": 129,
+      "fiona_id": "bcbd70f0-9afb-48d2-bbd3-fc5f13dc6d08",
+      "name": {
+        "ca": "Noves Visions - Inauguraci\u00f3",
+        "es": "Noves Visions - Inauguraci\u00f3n",
+        "en": "Noves Visions - Opening"
+      }
+    },
+    {
+      "id": "618-film_programme_sections",
+      "internal_id": 618,
+      "fiona_id": "8e71aad4-e131-4bca-8736-1913e95952f4",
+      "name": {
+        "ca": "Nova autoria",
+        "es": "Nueva autor\u00eda",
+        "en": "New authorship"
+      }
+    },
+    {
+      "id": "727-film_programme_sections",
+      "internal_id": 727,
+      "fiona_id": "51193498-5b02-4b74-a0c4-00b5becb6e4f",
+      "name": {
+        "ca": "Anima\u0027t - Curts",
+        "es": "Anima\u0027t - Cortos",
+        "en": "Anima\u0027t - Shorts"
+      }
+    },
+    {
+      "id": "728-film_programme_sections",
+      "internal_id": 728,
+      "fiona_id": "87dd640b-85a6-4dd0-8896-0709788412d8",
+      "name": {
+        "ca": "Noves Visions",
+        "es": "Noves Visions",
+        "en": "Noves Visions"
+      }
+    },
+    {
+      "id": "729-film_programme_sections",
+      "internal_id": 729,
+      "fiona_id": "a4577e07-ac86-4c92-9ad3-08026ac5e703",
+      "name": {
+        "ca": "Noves Visions - Inauguraci\u00f3",
+        "es": "Noves Visions - Inauguraci\u00f3n",
+        "en": "Noves Visions - Opening"
+      }
+    },
+    {
+      "id": "732-film_programme_sections",
+      "internal_id": 732,
+      "fiona_id": "d2d3d9c3-78fb-4114-aae1-1a3f074bfdfc",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic Competici\u00f3",
+        "es": "Oficial Fant\u00e0stic Competici\u00f3n",
+        "en": "Oficial Fant\u00e0stic Competition"
+      }
+    },
+    {
+      "id": "733-film_programme_sections",
+      "internal_id": 733,
+      "fiona_id": "cea78a61-07f6-4f7e-b8df-1c2d44402579",
+      "name": {
+        "ca": "Noves Visions - Petit Format",
+        "es": "Noves Visions - Petit Format",
+        "en": "Noves Visions - Petit Format"
+      }
+    },
+    {
+      "id": "734-film_programme_sections",
+      "internal_id": 734,
+      "fiona_id": "ca520463-3c42-4f62-880a-21ff080d608f",
+      "name": {
+        "ca": "Sitges Cl\u00e0ssics",
+        "es": "Sitges Cl\u00e0ssics",
+        "en": "Sitges Cl\u00e0ssics"
+      }
+    },
+    {
+      "id": "739-film_programme_sections",
+      "internal_id": 739,
+      "fiona_id": "fdacf08f-59f1-4b66-bbc3-32349543643a",
+      "name": {
+        "ca": "Anima\u0027t - Sessi\u00f3 Especial",
+        "es": "Anima\u0027t - Sesi\u00f3n Especial",
+        "en": "Anima\u0027t - Special Screening"
+      }
+    },
+    {
+      "id": "741-film_programme_sections",
+      "internal_id": 741,
+      "fiona_id": "79f1a25b-7618-4eb8-8e73-3b78a60e2442",
+      "name": {
+        "ca": "Anima\u0027t",
+        "es": "Anima\u0027t",
+        "en": "Anima\u0027t"
+      }
+    },
+    {
+      "id": "742-film_programme_sections",
+      "internal_id": 742,
+      "fiona_id": "c91298a7-378c-4896-b333-3d6db8dce735",
+      "name": {
+        "ca": "Brigadoon",
+        "es": "Brigadoon",
+        "en": "Brigadoon"
+      }
+    },
+    {
+      "id": "744-film_programme_sections",
+      "internal_id": 744,
+      "fiona_id": "f33ab6cd-eb6a-4816-8604-4862e6df15ed",
+      "name": {
+        "ca": "Panorama",
+        "es": "Panorama",
+        "en": "Panorama"
+      }
+    },
+    {
+      "id": "746-film_programme_sections",
+      "internal_id": 746,
+      "fiona_id": "eb69fa02-5415-4ece-ac70-64f0acea0659",
+      "name": {
+        "ca": "Cloenda",
+        "es": "Cloenda",
+        "en": "Cloenda"
+      }
+    },
+    {
+      "id": "747-film_programme_sections",
+      "internal_id": 747,
+      "fiona_id": "dac90c23-a341-4830-a934-67090f1a28d7",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic - Sessions Especials",
+        "es": "Oficial Fant\u00e0stic - Sesiones Especiales",
+        "en": "Oficial Fant\u00e0stic - Special Screening"
+      }
+    },
+    {
+      "id": "748-film_programme_sections",
+      "internal_id": 748,
+      "fiona_id": "db89a53a-eef7-4fd3-b5bb-72fc93a44e88",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic - Especial Mitjanit",
+        "es": "Oficial Fant\u00e0stic - Especial Medianoche",
+        "en": "Oficial Fant\u00e0stic - Especial Midnight"
+      }
+    },
+    {
+      "id": "750-film_programme_sections",
+      "internal_id": 750,
+      "fiona_id": "ebadc08e-011a-48bf-ba41-7f3f511aafbe",
+      "name": {
+        "ca": "Sessions Especials - Curts",
+        "es": "Sesions Especiales - Cortos",
+        "en": "Special Screenings - Shorts"
+      }
+    },
+    {
+      "id": "751-film_programme_sections",
+      "internal_id": 751,
+      "fiona_id": "28f98597-f083-480e-a072-84c92959f3e5",
+      "name": {
+        "ca": "Sitges Documenta",
+        "es": "Sitges Documenta",
+        "en": "Sitges Documenta"
+      }
+    },
+    {
+      "id": "754-film_programme_sections",
+      "internal_id": 754,
+      "fiona_id": "c58102da-1a14-48d0-8207-8aea37fcaaaa",
+      "name": {
+        "ca": "\u00d2rbita",
+        "es": "\u00d2rbita",
+        "en": "\u00d2rbita"
+      }
+    },
+    {
+      "id": "755-film_programme_sections",
+      "internal_id": 755,
+      "fiona_id": "53938f46-09dd-49a8-9a69-9147eb73ee2f",
+      "name": {
+        "ca": "Noves Visions - Cloenda",
+        "es": "Noves Visions - Clausura",
+        "en": "Noves Visions - Closing"
+      }
+    },
+    {
+      "id": "756-film_programme_sections",
+      "internal_id": 756,
+      "fiona_id": "93101492-3ac7-422a-ad22-97a99c7fb0f9",
+      "name": {
+        "ca": "Nova Autoria - Sessions Especials",
+        "es": "Nova Autoria - Sesiones Especiales",
+        "en": "Nova Autoria - Special Screening"
+      }
+    },
+    {
+      "id": "758-film_programme_sections",
+      "internal_id": 758,
+      "fiona_id": "acf4fc33-5b8a-42db-b35d-9cd280ac22e2",
+      "name": {
+        "ca": "Inauguraci\u00f3",
+        "es": "Inauguraci\u00f3n",
+        "en": "Opening"
+      }
+    },
+    {
+      "id": "759-film_programme_sections",
+      "internal_id": 759,
+      "fiona_id": "427e1e96-5ef7-4c04-8a42-a1ea27bfa064",
+      "name": {
+        "ca": "Catalunya Imagin\u00e0ria",
+        "es": "Catalunya Imagin\u00e0ria",
+        "en": "Catalunya Imagin\u00e0ria"
+      }
+    },
+    {
+      "id": "763-film_programme_sections",
+      "internal_id": 763,
+      "fiona_id": "f1accb49-4a34-47bd-9078-c298679dcb11",
+      "name": {
+        "ca": "Seven Chances",
+        "es": "Seven Chances",
+        "en": "Seven Chances"
+      }
+    },
+    {
+      "id": "766-film_programme_sections",
+      "internal_id": 766,
+      "fiona_id": "f0b0a896-63c9-4a3c-a6a0-d439d53cf21b",
+      "name": {
+        "ca": "Sessi\u00f3 Sorpresa",
+        "es": "Sessi\u00f3 Sorpresa",
+        "en": "Sessi\u00f3 Sorpresa"
+      }
+    },
+    {
+      "id": "768-film_programme_sections",
+      "internal_id": 768,
+      "fiona_id": "cd8a0e57-99ad-4ae7-9d18-dcb4d76e1276",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic Competici\u00f3 - Curts",
+        "es": "Oficial Fant\u00e0stic Competici\u00f3n - Cortos",
+        "en": "Oficial Fant\u00e0stic Competition - Shorts"
+      }
+    },
+    {
+      "id": "770-film_programme_sections",
+      "internal_id": 770,
+      "fiona_id": "e88808f0-a021-4e73-bc07-e7587cf0af3d",
+      "name": {
+        "ca": "Serial Sitges",
+        "es": "Serial Sitges",
+        "en": "Serial Sitges"
+      }
+    },
+    {
+      "id": "772-film_programme_sections",
+      "internal_id": 772,
+      "fiona_id": "504dc402-bcbd-4433-ad39-f385d3391a55",
+      "name": {
+        "ca": "Midnight X-Treme",
+        "es": "Midnight X-Treme",
+        "en": "Midnight X-Treme"
+      }
+    },
+    {
+      "id": "773-film_programme_sections",
+      "internal_id": 773,
+      "fiona_id": "d39bd014-acc5-4f9f-9205-f542ba3a3f89",
+      "name": {
+        "ca": "Noves Visions - Sessi\u00f3 Especial",
+        "es": "Noves Visions - Sesi\u00f3n Especial",
+        "en": "Noves Visions - Special Screening"
+      }
+    },
+    {
+      "id": "775-film_programme_sections",
+      "internal_id": 775,
+      "fiona_id": "333e5d7c-39de-42e8-b18b-3d658814c0d5",
+      "name": {
+        "ca": "Panorama - Sessi\u00f3 Especial",
+        "es": "Panorama - Sesi\u00f3n Especial",
+        "en": "Panorama - Special Screening"
+      }
+    },
+    {
+      "id": "776-film_programme_sections",
+      "internal_id": 776,
+      "fiona_id": "62544229-95b2-4bee-b4da-42dee6057e81",
+      "name": {
+        "ca": "Sitges Cl\u00e0ssics - Ciutat P\u00e0nic",
+        "es": "Sitges Cl\u00e0ssics - Ciudad P\u00e1nico",
+        "en": "Sitges Cl\u00e0ssics - Panic City"
+      }
+    },
+    {
+      "id": "777-film_programme_sections",
+      "internal_id": 777,
+      "fiona_id": "45d9a916-00da-4953-87fe-4b08cff8b9ba",
+      "name": {
+        "ca": "Noves Visions - Petit Format - Sessi\u00f3 Especial",
+        "es": "Noves Visions - Petit Format - Sesi\u00f3n Especial",
+        "en": "Noves Visions - Petit Format - Special Screening"
+      }
+    },
+    {
+      "id": "778-film_programme_sections",
+      "internal_id": 778,
+      "fiona_id": "0d616857-3713-4527-9442-d5bccd3e3f93",
+      "name": {
+        "ca": "Anima\u0027t - Sitges Cl\u00e0ssics",
+        "es": "Anima\u0027t - Sitges Cl\u00e0ssics",
+        "en": "Anima\u0027t - Sitges Cl\u00e0ssics"
+      }
+    },
+    {
+      "id": "779-film_programme_sections",
+      "internal_id": 779,
+      "fiona_id": "7fe76fc4-953a-4cd2-83c2-997129819501",
+      "name": {
+        "ca": "Sitges Family - Kids",
+        "es": "Sitges Family - Kids",
+        "en": "Sitges Family - Kids"
+      }
+    },
+    {
+      "id": "780-film_programme_sections",
+      "internal_id": 780,
+      "fiona_id": "5ebea1ac-a45f-41f6-b7be-6a7c1789d606",
+      "name": {
+        "ca": "Sitges Family - Teens",
+        "es": "Sitges Family - Teens",
+        "en": "Sitges Family - Teens"
+      }
+    },
+    {
+      "id": "835-film_programme_sections",
+      "internal_id": 835,
+      "fiona_id": "09134ad3-297e-49dc-a1b8-295ef5af552c",
+      "name": {
+        "ca": "Anima\u0027t",
+        "es": "Anima\u0027t",
+        "en": "Anima\u0027t"
+      }
+    },
+    {
+      "id": "837-film_programme_sections",
+      "internal_id": 837,
+      "fiona_id": "1fb2c8d6-265e-4de4-ade3-a6cb55fb28f2",
+      "name": {
+        "ca": "Anima\u0027t - Curts",
+        "es": "Anima\u0027t - Curts",
+        "en": "Anima\u0027t - Curts"
+      }
+    },
+    {
+      "id": "839-film_programme_sections",
+      "internal_id": 839,
+      "fiona_id": "a239d511-0633-4b7d-915d-ab9c36d58ed5",
+      "name": {
+        "ca": "Anima\u0027t - Sessi\u00f3 Especial",
+        "es": "Anima\u0027t - Sessi\u00f3 Especial",
+        "en": "Anima\u0027t - Sessi\u00f3 Especial"
+      }
+    },
+    {
+      "id": "841-film_programme_sections",
+      "internal_id": 841,
+      "fiona_id": "582723ca-91a4-4266-b69b-77084d60c145",
+      "name": {
+        "ca": "Brigadoon",
+        "es": "Brigadoon",
+        "en": "Brigadoon"
+      }
+    },
+    {
+      "id": "842-film_programme_sections",
+      "internal_id": 842,
+      "fiona_id": "d9e9d91c-109d-42bd-8ca7-e887ed254e88",
+      "name": {
+        "ca": "Catalunya Imagin\u00e0ria",
+        "es": "Catalunya Imagin\u00e0ria",
+        "en": "Catalunya Imagin\u00e0ria"
+      }
+    },
+    {
+      "id": "843-film_programme_sections",
+      "internal_id": 843,
+      "fiona_id": "4066c1f2-3808-4f22-841c-321977a7efb0",
+      "name": {
+        "ca": "Cloenda",
+        "es": "Cloenda",
+        "en": "Cloenda"
+      }
+    },
+    {
+      "id": "845-film_programme_sections",
+      "internal_id": 845,
+      "fiona_id": "9f913cea-d22b-4b08-b229-414ad1062045",
+      "name": {
+        "ca": "Inauguraci\u00f3",
+        "es": "Inauguraci\u00f3",
+        "en": "Inauguraci\u00f3"
+      }
+    },
+    {
+      "id": "848-film_programme_sections",
+      "internal_id": 848,
+      "fiona_id": "2f6b3eef-2848-4805-bbf7-8bb041aa14c6",
+      "name": {
+        "ca": "Nova Autoria - Sessions Especials",
+        "es": "Nova Autoria - Sessions Especials",
+        "en": "Nova Autoria - Sessions Especials"
+      }
+    },
+    {
+      "id": "849-film_programme_sections",
+      "internal_id": 849,
+      "fiona_id": "4b7b3c34-2d0c-416d-9b8a-e4399f8fdf4a",
+      "name": {
+        "ca": "Noves Visions",
+        "es": "Noves Visions",
+        "en": "Noves Visions"
+      }
+    },
+    {
+      "id": "850-film_programme_sections",
+      "internal_id": 850,
+      "fiona_id": "aef1d26c-0ca7-4edd-92ff-d56a3745683f",
+      "name": {
+        "ca": "Noves Visions - Cloenda",
+        "es": "Noves Visions - Cloenda",
+        "en": "Noves Visions - Cloenda"
+      }
+    },
+    {
+      "id": "852-film_programme_sections",
+      "internal_id": 852,
+      "fiona_id": "182b8b41-44b2-44fa-a10f-bfdeeed8a1b0",
+      "name": {
+        "ca": "Noves Visions - Petit Format",
+        "es": "Noves Visions - Petit Format",
+        "en": "Noves Visions - Petit Format"
+      }
+    },
+    {
+      "id": "853-film_programme_sections",
+      "internal_id": 853,
+      "fiona_id": "e26a8915-65e7-4e2c-ad19-ee474e5cdef8",
+      "name": {
+        "ca": "Noves Visions - Petit Format - Fora de Competici\u00f3",
+        "es": "Noves Visions - Petit Format - Fora de Competici\u00f3",
+        "en": "Noves Visions - Petit Format - Fora de Competici\u00f3"
+      }
+    },
+    {
+      "id": "859-film_programme_sections",
+      "internal_id": 859,
+      "fiona_id": "7656b4e1-a263-449d-a6c1-2a915d7f38e6",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic Competici\u00f3",
+        "es": "Oficial Fant\u00e0stic Competici\u00f3",
+        "en": "Oficial Fant\u00e0stic Competici\u00f3"
+      }
+    },
+    {
+      "id": "860-film_programme_sections",
+      "internal_id": 860,
+      "fiona_id": "a33cb97c-45f2-4eae-a42b-7e235ecbe103",
+      "name": {
+        "ca": "Oficial Fant\u00e0stic Competici\u00f3 - Curts",
+        "es": "Oficial Fant\u00e0stic Competici\u00f3 - Curts",
+        "en": "Oficial Fant\u00e0stic Competici\u00f3 - Curts"
+      }
+    },
+    {
+      "id": "861-film_programme_sections",
+      "internal_id": 861,
+      "fiona_id": "37126603-96f2-40c3-87ac-ffa367eab341",
+      "name": {
+        "ca": "Sitges Collection",
+        "es": "Sitges Collection",
+        "en": "Sitges Collection"
+      }
+    },
+    {
+      "id": "862-film_programme_sections",
+      "internal_id": 862,
+      "fiona_id": "e16ae6ab-b381-4c67-87c6-fe0d04b01c66",
+      "name": {
+        "ca": "\u00d2rbita",
+        "es": "\u00d2rbita",
+        "en": "\u00d2rbita"
+      }
+    },
+    {
+      "id": "863-film_programme_sections",
+      "internal_id": 863,
+      "fiona_id": "83828f0e-9c69-4eed-9fa4-eae54427db73",
+      "name": {
+        "ca": "\u00d2rbita - Cloenda",
+        "es": "\u00d2rbita - Cloenda",
+        "en": "\u00d2rbita - Cloenda"
+      }
+    },
+    {
+      "id": "865-film_programme_sections",
+      "internal_id": 865,
+      "fiona_id": "cae34448-1cba-4388-a7a4-22c32155076b",
+      "name": {
+        "ca": "\u00d2rbita - Sessions Especials",
+        "es": "\u00d2rbita - Sessions Especials",
+        "en": "\u00d2rbita - Sessions Especials"
+      }
+    },
+    {
+      "id": "866-film_programme_sections",
+      "internal_id": 866,
+      "fiona_id": "8fd5a88a-3253-47c6-bfd7-e1b442aa54c7",
+      "name": {
+        "ca": "Panorama",
+        "es": "Panorama",
+        "en": "Panorama"
+      }
+    },
+    {
+      "id": "870-film_programme_sections",
+      "internal_id": 870,
+      "fiona_id": "078b81b1-98d3-435c-9725-ca1f97768e74",
+      "name": {
+        "ca": "Retrospectiva",
+        "es": "Retrospectiva",
+        "en": "Retrospectiva"
+      }
+    },
+    {
+      "id": "871-film_programme_sections",
+      "internal_id": 871,
+      "fiona_id": "20244ada-bf24-48a4-ab5e-9c907f3f4310",
+      "name": {
+        "ca": "Serial Sitges",
+        "es": "Serial Sitges",
+        "en": "Serial Sitges"
+      }
+    },
+    {
+      "id": "872-film_programme_sections",
+      "internal_id": 872,
+      "fiona_id": "81cd922f-8589-454e-9d22-22a3a0241d1e",
+      "name": {
+        "ca": "Sessi\u00f3 Escoles",
+        "es": "Sessi\u00f3 Escoles",
+        "en": "Sessi\u00f3 Escoles"
+      }
+    },
+    {
+      "id": "875-film_programme_sections",
+      "internal_id": 875,
+      "fiona_id": "bc4bd507-2a96-4e2a-a779-305c7efed167",
+      "name": {
+        "ca": "Sessions Especials",
+        "es": "Sessions Especials",
+        "en": "Sessions Especials"
+      }
+    },
+    {
+      "id": "876-film_programme_sections",
+      "internal_id": 876,
+      "fiona_id": "b69a68d3-b5de-480a-afa4-e1286bb7489f",
+      "name": {
+        "ca": "Sessions Especials - Curts",
+        "es": "Sessions Especials - Curts",
+        "en": "Sessions Especials - Curts"
+      }
+    },
+    {
+      "id": "877-film_programme_sections",
+      "internal_id": 877,
+      "fiona_id": "e4b3dba1-09ed-430c-9b3a-3864eaec8e40",
+      "name": {
+        "ca": "Seven Chances",
+        "es": "Seven Chances",
+        "en": "Seven Chances"
+      }
+    },
+    {
+      "id": "878-film_programme_sections",
+      "internal_id": 878,
+      "fiona_id": "f086f69d-7edb-4ade-bae2-c56c1bf5e440",
+      "name": {
+        "ca": "Sitges Cl\u00e0ssics",
+        "es": "Sitges Cl\u00e0ssics",
+        "en": "Sitges Cl\u00e0ssics"
+      }
+    },
+    {
+      "id": "881-film_programme_sections",
+      "internal_id": 881,
+      "fiona_id": "a522f1f5-34c2-4435-9a7f-69a0ac6794a4",
+      "name": {
+        "ca": "Sitges Documenta",
+        "es": "Sitges Documenta",
+        "en": "Sitges Documenta"
+      }
+    },
+    {
+      "id": "884-film_programme_sections",
+      "internal_id": 884,
+      "fiona_id": "84f9c736-590f-4023-8162-ffcc3ce69e04",
+      "name": {
+        "ca": "Sitges Family - Kids",
+        "es": "Sitges Family - Kids",
+        "en": "Sitges Family - Kids"
+      }
+    },
+    {
+      "id": "885-film_programme_sections",
+      "internal_id": 885,
+      "fiona_id": "bc074b06-baf8-40e7-9225-164b01f71d06",
+      "name": {
+        "ca": "Sitges Family - Teens",
+        "es": "Sitges Family - Teens",
+        "en": "Sitges Family - Teens"
+      }
+    },
+    {
+      "id": "886-film_programme_sections",
+      "internal_id": 886,
+      "fiona_id": "b802ccb9-9a06-48e6-ab7d-0bd07b487e4a",
+      "name": {
+        "ca": "Midnight X-Treme",
+        "es": "Midnight X-Treme",
+        "en": "Midnight X-Treme"
+      }
+    },
+    {
+      "id": "887-film_programme_sections",
+      "internal_id": 887,
+      "fiona_id": "ddd1e3c1-0f26-43fb-bece-0c73e855c849",
+      "name": {
+        "ca": "Sitges Family - Kids en Acci\u00f3",
+        "es": "Sitges Family - Kids en Acci\u00f3",
+        "en": "Sitges Family - Kids en Acci\u00f3"
+      }
+    },
+    {
+      "id": "889-film_programme_sections",
+      "internal_id": 889,
+      "fiona_id": "fa047a3f-f8a9-4727-a20d-74c192bf6dda",
+      "name": {
+        "ca": "Sitges Collection - Sessi\u00f3 Especial",
+        "es": "Sitges Collection - Sessi\u00f3 Especial",
+        "en": "Sitges Collection - Sessi\u00f3 Especial"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "60-film_categories",
+      "internal_id": 60,
+      "fiona_id": "30e892c9-2702-4aa2-a91e-9694da31b7fd",
+      "name": {
+        "ca": "Live action",
+        "es": "Live action",
+        "en": "Live action"
+      }
+    },
+    {
+      "id": "61-film_categories",
+      "internal_id": 61,
+      "fiona_id": "03e5bb91-316c-4d4e-b898-97d5ac95967b",
+      "name": {
+        "ca": "Animaci\u00f3",
+        "es": "Animaci\u00f3n",
+        "en": "Animation"
+      }
+    },
+    {
+      "id": "62-film_categories",
+      "internal_id": 62,
+      "fiona_id": "e9ff586d-1aa2-4d5f-97c5-ab4c9d145222",
+      "name": {
+        "ca": "Live action \u0026 Animaci\u00f3",
+        "es": "Live action \u0026 Animaci\u00f3n",
+        "en": "Live action \u0026 Animation"
+      }
+    }
+  ],
+  "awards": [
+    {
+      "id": "82-film_awards",
+      "internal_id": 82,
+      "fiona_id": "01e7cc58-acf8-47f3-839b-9353bbc446e0",
+      "name": {
+        "ca": "Millor llargmetratge",
+        "es": "Mejor Largometraje",
+        "en": "Best Feature Length Film"
+      }
+    }
+  ],
+  "types": [
+    {
+      "id": "609-film_types",
+      "internal_id": 609,
+      "fiona_id": "extra",
+      "name": {
+        "ca": "Extra",
+        "es": "Extra",
+        "en": "Extra"
+      }
+    },
+    {
+      "id": "610-film_types",
+      "internal_id": 610,
+      "fiona_id": "curt",
+      "name": {
+        "ca": "Curt",
+        "es": "Corto",
+        "en": "Short film"
+      }
+    },
+    {
+      "id": "611-film_types",
+      "internal_id": 611,
+      "fiona_id": "llarg",
+      "name": {
+        "ca": "Llarg",
+        "es": "Largometraje",
+        "en": "Feature film"
+      }
+    },
+    {
+      "id": "612-film_types",
+      "internal_id": 612,
+      "fiona_id": "clip",
+      "name": {
+        "ca": "Clip",
+        "es": "Clip",
+        "en": "Clip"
+      }
+    },
+    {
+      "id": "613-film_types",
+      "internal_id": 613,
+      "fiona_id": "s\u00e8rie",
+      "name": {
+        "ca": "S\u00e8rie",
+        "es": "Serie",
+        "en": "Series"
+      }
+    },
+    {
+      "id": "614-film_types",
+      "internal_id": 614,
+      "fiona_id": "sessi\u00f3",
+      "name": {
+        "ca": "Sessi\u00f3",
+        "es": "Sesi\u00f3n",
+        "en": "Session"
+      }
+    },
+    {
+      "id": "615-film_types",
+      "internal_id": 615,
+      "fiona_id": "teaser",
+      "name": {
+        "ca": "Teaser",
+        "es": "Teaser",
+        "en": "Teaser"
+      }
+    }
+  ],
+  "languages": [
+    {
+      "id": "164-film_languages",
+      "internal_id": 164,
+      "fiona_id": "284fcc2c-2fca-4f47-a111-019219998056",
+      "name": {
+        "ca": "Fin\u00e8s",
+        "es": "Fin\u00e9s",
+        "en": "Finnish"
+      }
+    },
+    {
+      "id": "166-film_languages",
+      "internal_id": 166,
+      "fiona_id": "ae99170f-52eb-40a7-901a-067b93b046e9",
+      "name": {
+        "ca": "Noruec",
+        "es": "Noruego",
+        "en": "Norwegian"
+      }
+    },
+    {
+      "id": "169-film_languages",
+      "internal_id": 169,
+      "fiona_id": "08a31d81-88e9-4a6e-80b8-0d2e5af7a77e",
+      "name": {
+        "ca": "Euskera",
+        "es": "Euskera",
+        "en": "Basque"
+      }
+    },
+    {
+      "id": "170-film_languages",
+      "internal_id": 170,
+      "fiona_id": "c4720657-0ec0-4a4a-b8c2-0d434e307029",
+      "name": {
+        "ca": "Espanyol",
+        "es": "Espa\u00f1ol",
+        "en": "Spanish"
+      }
+    },
+    {
+      "id": "175-film_languages",
+      "internal_id": 175,
+      "fiona_id": "60bb3fea-41ba-4cbf-9841-1493a1626bec",
+      "name": {
+        "ca": "Catal\u00e0",
+        "es": "Catal\u00e1n",
+        "en": "Catalan"
+      }
+    },
+    {
+      "id": "177-film_languages",
+      "internal_id": 177,
+      "fiona_id": "03694a22-59e2-404f-9671-152db84ae54e",
+      "name": {
+        "ca": "Chinese",
+        "es": "Chinese",
+        "en": "Chinese"
+      }
+    },
+    {
+      "id": "180-film_languages",
+      "internal_id": 180,
+      "fiona_id": "989d337e-d916-429c-a680-19b34bda4d08",
+      "name": {
+        "ca": "Sense di\u00e0leg",
+        "es": "Sin di\u00e1logo",
+        "en": "No Dialogue"
+      }
+    },
+    {
+      "id": "192-film_languages",
+      "internal_id": 192,
+      "fiona_id": "0a3e851d-5950-4390-b255-27702f822f01",
+      "name": {
+        "ca": "Navajo",
+        "es": "Navajo",
+        "en": "Navajo"
+      }
+    },
+    {
+      "id": "194-film_languages",
+      "internal_id": 194,
+      "fiona_id": "51be10cf-ef5f-4d74-9f10-29bce0cdc64f",
+      "name": {
+        "ca": "Hindi",
+        "es": "Hindi",
+        "en": "Hindi"
+      }
+    },
+    {
+      "id": "195-film_languages",
+      "internal_id": 195,
+      "fiona_id": "faff6b51-8118-44b8-905e-2fce88effc6e",
+      "name": {
+        "ca": "Llenguatge inventat",
+        "es": "Lenguaje inventado",
+        "en": "Invented Language"
+      }
+    },
+    {
+      "id": "199-film_languages",
+      "internal_id": 199,
+      "fiona_id": "86945557-262a-41ed-ad0f-310d3e2f1532",
+      "name": {
+        "ca": "Estoni\u00e0",
+        "es": "Estonio",
+        "en": "Estonian"
+      }
+    },
+    {
+      "id": "203-film_languages",
+      "internal_id": 203,
+      "fiona_id": "208064e4-de7c-47a1-8dc6-35d4e359211a",
+      "name": {
+        "ca": "Latin",
+        "es": "Latin",
+        "en": "Latin"
+      }
+    },
+    {
+      "id": "204-film_languages",
+      "internal_id": 204,
+      "fiona_id": "8dc8b455-75f1-48b2-b88e-36798a5b0144",
+      "name": {
+        "ca": "Tagal",
+        "es": "Tagalo",
+        "en": "Tagalog"
+      }
+    },
+    {
+      "id": "207-film_languages",
+      "internal_id": 207,
+      "fiona_id": "5f1428fe-a07b-46ed-b8cb-3bd305ef96a5",
+      "name": {
+        "ca": "Slovenian",
+        "es": "Slovenian",
+        "en": "Slovenian"
+      }
+    },
+    {
+      "id": "210-film_languages",
+      "internal_id": 210,
+      "fiona_id": "b3e8d590-fe45-4d5c-a62f-45153f18a788",
+      "name": {
+        "ca": "Cornish",
+        "es": "Cornish",
+        "en": "Cornish"
+      }
+    },
+    {
+      "id": "211-film_languages",
+      "internal_id": 211,
+      "fiona_id": "f75a3dac-9ef9-4083-a05f-47bcf3bff232",
+      "name": {
+        "ca": "Suec",
+        "es": "Sueco",
+        "en": "Swedish"
+      }
+    },
+    {
+      "id": "214-film_languages",
+      "internal_id": 214,
+      "fiona_id": "d99e9529-fc89-4e7f-b203-4c0ec6d3e5f2",
+      "name": {
+        "ca": "Portugu\u00e8s",
+        "es": "Portugu\u00e9s",
+        "en": "Portuguese"
+      }
+    },
+    {
+      "id": "216-film_languages",
+      "internal_id": 216,
+      "fiona_id": "4300585f-7dd1-49ea-a701-50688e327788",
+      "name": {
+        "ca": "Ga\u00e8lic",
+        "es": "Ga\u00e9lico",
+        "en": "Gaelic"
+      }
+    },
+    {
+      "id": "218-film_languages",
+      "internal_id": 218,
+      "fiona_id": "5f6f950f-c8a0-4422-96c8-517424185f62",
+      "name": {
+        "ca": "Angl\u00e8s",
+        "es": "Ingl\u00e9s",
+        "en": "English"
+      }
+    },
+    {
+      "id": "225-film_languages",
+      "internal_id": 225,
+      "fiona_id": "0a746e3d-09cb-4cbc-91ec-56430ec5c047",
+      "name": {
+        "ca": "Grec",
+        "es": "Griego",
+        "en": "Greek"
+      }
+    },
+    {
+      "id": "230-film_languages",
+      "internal_id": 230,
+      "fiona_id": "2e4d9b2d-6910-4f1c-a9c0-5a03afcb83de",
+      "name": {
+        "ca": "Polac",
+        "es": "Polaco",
+        "en": "Polish"
+      }
+    },
+    {
+      "id": "233-film_languages",
+      "internal_id": 233,
+      "fiona_id": "1007a230-75ac-4c8d-adec-5bc83fb08251",
+      "name": {
+        "ca": "Taiwanese Hokkien",
+        "es": "Taiwanese Hokkien",
+        "en": "Taiwanese Hokkien"
+      }
+    },
+    {
+      "id": "237-film_languages",
+      "internal_id": 237,
+      "fiona_id": "51815687-4859-4e75-b1dc-5e8d004956f5",
+      "name": {
+        "ca": "Let\u00f3",
+        "es": "Let\u00f3n",
+        "en": "Latvian"
+      }
+    },
+    {
+      "id": "238-film_languages",
+      "internal_id": 238,
+      "fiona_id": "04900299-bcc1-4bb9-a0e0-5f18952c6692",
+      "name": {
+        "ca": "Afrikaans",
+        "es": "Afrikaans",
+        "en": "Afrikaans"
+      }
+    },
+    {
+      "id": "242-film_languages",
+      "internal_id": 242,
+      "fiona_id": "11e4cc11-d17b-45b8-8c86-650d70e2d552",
+      "name": {
+        "ca": "Eslovac",
+        "es": "Eslovaco",
+        "en": "Slovak"
+      }
+    },
+    {
+      "id": "249-film_languages",
+      "internal_id": 249,
+      "fiona_id": "db65a835-1c31-4dcb-ab41-6d2f69f913a5",
+      "name": {
+        "ca": "Core\u00e0",
+        "es": "Coreano",
+        "en": "Korean"
+      }
+    },
+    {
+      "id": "250-film_languages",
+      "internal_id": 250,
+      "fiona_id": "c12d892d-b7a5-478b-9ce4-6eba7ed473a6",
+      "name": {
+        "ca": "Kirundi",
+        "es": "Kirundi",
+        "en": "Kirundi"
+      }
+    },
+    {
+      "id": "253-film_languages",
+      "internal_id": 253,
+      "fiona_id": "f15bbe59-072f-4aea-ae8e-766ac018cb1f",
+      "name": {
+        "ca": "Croat",
+        "es": "Croata",
+        "en": "Croatian"
+      }
+    },
+    {
+      "id": "255-film_languages",
+      "internal_id": 255,
+      "fiona_id": "0320f3f0-98e0-462b-9fc0-782b0abaa609",
+      "name": {
+        "ca": "Canton\u00e8s",
+        "es": "Canton\u00e9s",
+        "en": "Cantonese"
+      }
+    },
+    {
+      "id": "257-film_languages",
+      "internal_id": 257,
+      "fiona_id": "14ef1010-6f26-44a2-9b2f-7be48cf30ed8",
+      "name": {
+        "ca": "Kazakh",
+        "es": "Kazakh",
+        "en": "Kazakh"
+      }
+    },
+    {
+      "id": "259-film_languages",
+      "internal_id": 259,
+      "fiona_id": "de6cba78-7df1-43ad-9812-7da67701ece1",
+      "name": {
+        "ca": "Urdu",
+        "es": "Urdu",
+        "en": "Urdu"
+      }
+    },
+    {
+      "id": "260-film_languages",
+      "internal_id": 260,
+      "fiona_id": "d7ba0d05-9646-4ea5-b1a8-7eb1e45c0a55",
+      "name": {
+        "ca": "Alemany",
+        "es": "Alem\u00e1n",
+        "en": "German"
+      }
+    },
+    {
+      "id": "261-film_languages",
+      "internal_id": 261,
+      "fiona_id": "e2db34e3-bca3-4c55-aec7-7fa0f4f6a5e5",
+      "name": {
+        "ca": "Franc\u00e8s",
+        "es": "Franc\u00e9s",
+        "en": "French"
+      }
+    },
+    {
+      "id": "265-film_languages",
+      "internal_id": 265,
+      "fiona_id": "b77e2da6-0863-4433-b6b5-8a390df92c28",
+      "name": {
+        "ca": "Alemany",
+        "es": "Alem\u00e1n",
+        "en": "Dutch"
+      }
+    },
+    {
+      "id": "267-film_languages",
+      "internal_id": 267,
+      "fiona_id": "904345c5-d18b-4ddb-9cbf-8a9d61420e27",
+      "name": {
+        "ca": "Dan\u00e8s",
+        "es": "Dan\u00e9s",
+        "en": "Danish"
+      }
+    },
+    {
+      "id": "273-film_languages",
+      "internal_id": 273,
+      "fiona_id": "2aa1dd7f-f3b7-4879-90d5-940ef773e75c",
+      "name": {
+        "ca": "Kurd",
+        "es": "Kurdo",
+        "en": "Kurdish"
+      }
+    },
+    {
+      "id": "276-film_languages",
+      "internal_id": 276,
+      "fiona_id": "f537235e-7bf0-4a21-a774-95485e3f3782",
+      "name": {
+        "ca": "Central Khmer",
+        "es": "Central Khmer",
+        "en": "Central Khmer"
+      }
+    },
+    {
+      "id": "280-film_languages",
+      "internal_id": 280,
+      "fiona_id": "a0df4797-3b94-46b1-8ae2-9ba2c57e9c94",
+      "name": {
+        "ca": "Persa",
+        "es": "Persa",
+        "en": "Persian"
+      }
+    },
+    {
+      "id": "286-film_languages",
+      "internal_id": 286,
+      "fiona_id": "e7aca9cd-35fd-4f63-a895-a00cfd7386c1",
+      "name": {
+        "ca": "Wolof",
+        "es": "Wolof",
+        "en": "Wolof"
+      }
+    },
+    {
+      "id": "290-film_languages",
+      "internal_id": 290,
+      "fiona_id": "e9ce28ab-307e-42e8-ad2c-a1eeddc27417",
+      "name": {
+        "ca": "Macedoni",
+        "es": "Macedonio",
+        "en": "Macedonian"
+      }
+    },
+    {
+      "id": "291-film_languages",
+      "internal_id": 291,
+      "fiona_id": "ded892d8-61b8-4502-85fb-a3b73a72d748",
+      "name": {
+        "ca": "Xhosa",
+        "es": "Xhosa",
+        "en": "Xhosa"
+      }
+    },
+    {
+      "id": "295-film_languages",
+      "internal_id": 295,
+      "fiona_id": "aa1b7262-8e28-4e27-91fc-a8ed665ba7bd",
+      "name": {
+        "ca": "Rus",
+        "es": "Ruso",
+        "en": "Russian"
+      }
+    },
+    {
+      "id": "296-film_languages",
+      "internal_id": 296,
+      "fiona_id": "ce8d427d-c075-488e-83b8-aa4adc2e2deb",
+      "name": {
+        "ca": "Luxemburgu\u00e8s",
+        "es": "Luxemburgu\u00e9s",
+        "en": "Luxembourgish"
+      }
+    },
+    {
+      "id": "298-film_languages",
+      "internal_id": 298,
+      "fiona_id": "729f0d39-cc7a-4c75-b949-ac957d5ec392",
+      "name": {
+        "ca": "Farsi",
+        "es": "Farsi",
+        "en": "Farsi"
+      }
+    },
+    {
+      "id": "305-film_languages",
+      "internal_id": 305,
+      "fiona_id": "ec946b3c-d592-4992-b66d-b33772f41123",
+      "name": {
+        "ca": "Bengali",
+        "es": "Bengali",
+        "en": "Bengali"
+      }
+    },
+    {
+      "id": "306-film_languages",
+      "internal_id": 306,
+      "fiona_id": "0e6b4df2-190f-4dcf-a59e-b5c53a70291f",
+      "name": {
+        "ca": "Indonesi",
+        "es": "Indonesio",
+        "en": "Indonesian"
+      }
+    },
+    {
+      "id": "308-film_languages",
+      "internal_id": 308,
+      "fiona_id": "65c7740a-2605-4e82-9395-b903d388c1e0",
+      "name": {
+        "ca": "Filipino",
+        "es": "Filipino",
+        "en": "Filipino"
+      }
+    },
+    {
+      "id": "311-film_languages",
+      "internal_id": 311,
+      "fiona_id": "998fc7c0-b94b-4156-bf9f-c0c6cb01c384",
+      "name": {
+        "ca": "Malay",
+        "es": "Malay",
+        "en": "Malay"
+      }
+    },
+    {
+      "id": "312-film_languages",
+      "internal_id": 312,
+      "fiona_id": "de1e4e5a-6456-43dd-89bb-c2e7a8a97d1a",
+      "name": {
+        "ca": "Txec",
+        "es": "Checo",
+        "en": "Czech"
+      }
+    },
+    {
+      "id": "316-film_languages",
+      "internal_id": 316,
+      "fiona_id": "983a7b62-1e49-4185-a745-c72b940e4f29",
+      "name": {
+        "ca": "Ukrainian",
+        "es": "Ukrainian",
+        "en": "Ukrainian"
+      }
+    },
+    {
+      "id": "320-film_languages",
+      "internal_id": 320,
+      "fiona_id": "cc0979ba-fc68-4890-9c59-cb23ee02ab9f",
+      "name": {
+        "ca": "Hongar\u00e8s",
+        "es": "H\u00fangaro",
+        "en": "Hungarian"
+      }
+    },
+    {
+      "id": "321-film_languages",
+      "internal_id": 321,
+      "fiona_id": "fae412db-0eaf-4486-80da-cc8a8e3994f1",
+      "name": {
+        "ca": "Japon\u00e8s",
+        "es": "Japon\u00e9s",
+        "en": "Japanese"
+      }
+    },
+    {
+      "id": "323-film_languages",
+      "internal_id": 323,
+      "fiona_id": "d8d967b1-041b-42cc-bc68-cf2731fca33a",
+      "name": {
+        "ca": "Gallec",
+        "es": "Gallego",
+        "en": "Galician"
+      }
+    },
+    {
+      "id": "327-film_languages",
+      "internal_id": 327,
+      "fiona_id": "fa6e1ea1-b40b-43ac-90ce-d289f3519eb4",
+      "name": {
+        "ca": "Irish",
+        "es": "Irish",
+        "en": "Irish"
+      }
+    },
+    {
+      "id": "334-film_languages",
+      "internal_id": 334,
+      "fiona_id": "cd2b5554-ba53-4dfd-b3ea-dd916ec80a8f",
+      "name": {
+        "ca": "Tailand\u00e8s",
+        "es": "Tailand\u00e9s",
+        "en": "Thai"
+      }
+    },
+    {
+      "id": "336-film_languages",
+      "internal_id": 336,
+      "fiona_id": "4a016779-1292-4094-bf9a-e234648fcde3",
+      "name": {
+        "ca": "Roman\u00e8s",
+        "es": "Rumano",
+        "en": "Romanian"
+      }
+    },
+    {
+      "id": "340-film_languages",
+      "internal_id": 340,
+      "fiona_id": "4e802437-623b-4824-839e-e5f25fc76320",
+      "name": {
+        "ca": "Dari",
+        "es": "Dari",
+        "en": "Dari"
+      }
+    },
+    {
+      "id": "341-film_languages",
+      "internal_id": 341,
+      "fiona_id": "277f1787-10c2-4f97-99f2-e89708fbb3e6",
+      "name": {
+        "ca": "Serbi",
+        "es": "Serbio",
+        "en": "Serbian"
+      }
+    },
+    {
+      "id": "343-film_languages",
+      "internal_id": 343,
+      "fiona_id": "b8c904ec-bb21-42b6-9645-ea7f8bc8d517",
+      "name": {
+        "ca": "Taiwan\u00e8s",
+        "es": "Taiwan\u00e9s",
+        "en": "Taiwanese"
+      }
+    },
+    {
+      "id": "344-film_languages",
+      "internal_id": 344,
+      "fiona_id": "2747f34b-3812-4fe7-bba4-eaf6f07eafce",
+      "name": {
+        "ca": "Swahili",
+        "es": "Swahili",
+        "en": "Swahili"
+      }
+    },
+    {
+      "id": "347-film_languages",
+      "internal_id": 347,
+      "fiona_id": "064820c3-7067-48b7-8986-eed1ac0cdd81",
+      "name": {
+        "ca": "\u00c0rab",
+        "es": "\u00c1rabe",
+        "en": "Arabic"
+      }
+    },
+    {
+      "id": "349-film_languages",
+      "internal_id": 349,
+      "fiona_id": "21073b13-24d9-4a54-ad36-f340d8ef6dde",
+      "name": {
+        "ca": "Vietnamese",
+        "es": "Vietnamese",
+        "en": "Vietnamese"
+      }
+    },
+    {
+      "id": "350-film_languages",
+      "internal_id": 350,
+      "fiona_id": "76f2a00c-3c49-4f24-8b19-f3430779f9cf",
+      "name": {
+        "ca": "Bahasa Malaysia",
+        "es": "Bahasa Malaysia",
+        "en": "Bahasa Malaysia"
+      }
+    },
+    {
+      "id": "354-film_languages",
+      "internal_id": 354,
+      "fiona_id": "f42e027f-55e4-4855-9b46-f561979790fc",
+      "name": {
+        "ca": "Itali\u00e0",
+        "es": "Italiano",
+        "en": "Italian"
+      }
+    },
+    {
+      "id": "356-film_languages",
+      "internal_id": 356,
+      "fiona_id": "a1f88bfe-bf3c-4106-b262-f87879196333",
+      "name": {
+        "ca": "Turc",
+        "es": "Turco",
+        "en": "Turkish"
+      }
+    },
+    {
+      "id": "358-film_languages",
+      "internal_id": 358,
+      "fiona_id": "084cd9ee-25d1-46b4-992e-fd600ef735fa",
+      "name": {
+        "ca": "Inuktitut",
+        "es": "Inuktitut",
+        "en": "Inuktitut"
+      }
+    },
+    {
+      "id": "616-film_languages",
+      "internal_id": 616,
+      "fiona_id": "c33a7fb3-5a33-45ce-988e-97a008e2c339",
+      "name": {
+        "ca": "Cebuano",
+        "es": "Cebuano",
+        "en": "Cebuano"
+      }
+    },
+    {
+      "id": "617-film_languages",
+      "internal_id": 617,
+      "fiona_id": "6e1ef43a-8966-47dc-87f0-a1f6ae3f373d",
+      "name": {
+        "ca": "Bahasa Indonesia",
+        "es": "Bahasa Indonesia",
+        "en": "Bahasa Indonesian"
+      }
+    },
+    {
+      "id": "720-film_languages",
+      "internal_id": 720,
+      "fiona_id": "26627f05-e963-43e3-ae89-a8c5351048c3",
+      "name": {
+        "ca": "Mapudungun",
+        "es": "Mapudungun",
+        "en": "Mapudungun"
+      }
+    },
+    {
+      "id": "721-film_languages",
+      "internal_id": 721,
+      "fiona_id": "80ae9558-b52a-4aad-a5db-d77dbc599283",
+      "name": {
+        "ca": "Napolit\u00e0",
+        "es": "Napolitano",
+        "en": "Neapolitan"
+      }
+    },
+    {
+      "id": "722-film_languages",
+      "internal_id": 722,
+      "fiona_id": "9f8c826b-db68-48e3-b8f5-eabdec275e65",
+      "name": {
+        "ca": "Kapampangan",
+        "es": "Kapampangan",
+        "en": "Kapampangan"
+      }
+    },
+    {
+      "id": "723-film_languages",
+      "internal_id": 723,
+      "fiona_id": "54888f4a-322e-4d29-a081-ed87294c869c",
+      "name": {
+        "ca": "Mandar\u00ed",
+        "es": "Mandar\u00edn",
+        "en": "Mandarin"
+      }
+    },
+    {
+      "id": "724-film_languages",
+      "internal_id": 724,
+      "fiona_id": "78bbe68b-e30a-4104-b5c9-eda9705ca8fd",
+      "name": {
+        "ca": "Ojibw\u00e9",
+        "es": "Ojibw\u00e9",
+        "en": "Ojibw\u00e9"
+      }
+    },
+    {
+      "id": "831-film_languages",
+      "internal_id": 831,
+      "fiona_id": "b6a1fbcb-a5e3-4ad7-9c46-7ed1385dc116",
+      "name": {
+        "ca": "Dene",
+        "es": "Dene",
+        "en": "Dene"
+      }
+    },
+    {
+      "id": "832-film_languages",
+      "internal_id": 832,
+      "fiona_id": "9b5509ba-32f2-40c6-910f-66e415f4a3b7",
+      "name": {
+        "ca": "Purepecha",
+        "es": "Purepecha",
+        "en": "Purepecha"
+      }
+    },
+    {
+      "id": "833-film_languages",
+      "internal_id": 833,
+      "fiona_id": "8ee014e2-aade-42b8-856f-0baa7a815273",
+      "name": {
+        "ca": "Sicili\u00e0",
+        "es": "Siciliano",
+        "en": "Sicilian"
+      }
+    }
+  ],
+  "countries": [
+    {
+      "id": "371-film_countries",
+      "internal_id": 371,
+      "fiona_id": "15ed9acd-d811-48f7-92b6-096e1b4123ab",
+      "name": {
+        "ca": "Estonia",
+        "es": "Estonia",
+        "en": "Estonia"
+      }
+    },
+    {
+      "id": "377-film_countries",
+      "internal_id": 377,
+      "fiona_id": "fb8a5f0f-264d-4463-a580-0ed7404a8218",
+      "name": {
+        "ca": "Pakistan",
+        "es": "Pakist\u00e1n",
+        "en": "Pakistan"
+      }
+    },
+    {
+      "id": "378-film_countries",
+      "internal_id": 378,
+      "fiona_id": "1c3ab584-79d9-4187-976f-1025dcc7213d",
+      "name": {
+        "ca": "Finl\u00e0ndia",
+        "es": "Finlandia",
+        "en": "Finland"
+      }
+    },
+    {
+      "id": "381-film_countries",
+      "internal_id": 381,
+      "fiona_id": "a7d4eb0b-0d53-4128-b9f8-11c4e70b0e6b",
+      "name": {
+        "ca": "Brasil",
+        "es": "Brasil",
+        "en": "Brazil"
+      }
+    },
+    {
+      "id": "382-film_countries",
+      "internal_id": 382,
+      "fiona_id": "49b8f92b-ece5-40a3-bdc1-1387f8385924",
+      "name": {
+        "ca": "New Zealand",
+        "es": "New Zealand",
+        "en": "New Zealand"
+      }
+    },
+    {
+      "id": "383-film_countries",
+      "internal_id": 383,
+      "fiona_id": "ebe99ace-a699-43a4-82fe-1397648d7717",
+      "name": {
+        "ca": "Iran (Rep\u00fablica Isl\u00e0mica de)",
+        "es": "Ir\u00e1n (Rep\u00fablica Isl\u00e1mica de)",
+        "en": "Iran (Islamic Republic of)"
+      }
+    },
+    {
+      "id": "389-film_countries",
+      "internal_id": 389,
+      "fiona_id": "17ff9d9b-488e-4323-87f0-1560af07ac7d",
+      "name": {
+        "ca": "M\u00e8xic ",
+        "es": "M\u00e9xico",
+        "en": "Mexico"
+      }
+    },
+    {
+      "id": "404-film_countries",
+      "internal_id": 404,
+      "fiona_id": "de1f29c0-4640-49e7-a170-27ec24e7760f",
+      "name": {
+        "ca": "Romania",
+        "es": "Ruman\u00eda",
+        "en": "Romania"
+      }
+    },
+    {
+      "id": "413-film_countries",
+      "internal_id": 413,
+      "fiona_id": "4f364306-2f0e-470e-a002-31e3fa55e61d",
+      "name": {
+        "ca": "Sud-\u00e0frica",
+        "es": "Sud\u00e1frica",
+        "en": "South Africa"
+      }
+    },
+    {
+      "id": "415-film_countries",
+      "internal_id": 415,
+      "fiona_id": "1abfe5ef-13f7-42e3-a8cb-34c54a951b06",
+      "name": {
+        "ca": "India",
+        "es": "India",
+        "en": "India"
+      }
+    },
+    {
+      "id": "416-film_countries",
+      "internal_id": 416,
+      "fiona_id": "2cc2361d-aba3-44e0-bde4-350fb17f65fd",
+      "name": {
+        "ca": "Pa\u00efsos Baixos",
+        "es": "Pa\u00edses Bajos",
+        "en": "Netherlands (the)"
+      }
+    },
+    {
+      "id": "417-film_countries",
+      "internal_id": 417,
+      "fiona_id": "cb3396b9-9a8d-4fcd-9461-35bd854c0d7d",
+      "name": {
+        "ca": "Noruega",
+        "es": "Noruega",
+        "en": "Norway"
+      }
+    },
+    {
+      "id": "419-film_countries",
+      "internal_id": 419,
+      "fiona_id": "be539132-888b-4ed6-bec2-39e2711eea5e",
+      "name": {
+        "ca": "Luxemburg",
+        "es": "Luxemburgo",
+        "en": "Luxembourg"
+      }
+    },
+    {
+      "id": "427-film_countries",
+      "internal_id": 427,
+      "fiona_id": "fe6249c5-9f4f-4a6c-8994-46905078c6f2",
+      "name": {
+        "ca": "Ukraine",
+        "es": "Ukraine",
+        "en": "Ukraine"
+      }
+    },
+    {
+      "id": "429-film_countries",
+      "internal_id": 429,
+      "fiona_id": "3a0f710c-1dd3-4504-b897-46b41992cd71",
+      "name": {
+        "ca": "Dominican Republic (the)",
+        "es": "Dominican Republic (the)",
+        "en": "Dominican Republic (the)"
+      }
+    },
+    {
+      "id": "433-film_countries",
+      "internal_id": 433,
+      "fiona_id": "a1cbdc5c-7354-438c-ac42-4c993ce8b2c0",
+      "name": {
+        "ca": "Indon\u00e8sia ",
+        "es": "Indonesia",
+        "en": "Indonesia"
+      }
+    },
+    {
+      "id": "435-film_countries",
+      "internal_id": 435,
+      "fiona_id": "18f35a78-8c5e-4bd4-a15d-4ecc7036f973",
+      "name": {
+        "ca": "Taiwan",
+        "es": "Taiw\u00e1n",
+        "en": "Taiwan"
+      }
+    },
+    {
+      "id": "437-film_countries",
+      "internal_id": 437,
+      "fiona_id": "481c79df-07d7-4a63-ad0d-52f7c7f0d007",
+      "name": {
+        "ca": "Namibia",
+        "es": "Namibia",
+        "en": "Namibia"
+      }
+    },
+    {
+      "id": "443-film_countries",
+      "internal_id": 443,
+      "fiona_id": "7a226bb4-9816-48c7-b1d9-563f4bae77cb",
+      "name": {
+        "ca": "Ecuador",
+        "es": "Ecuador",
+        "en": "Ecuador"
+      }
+    },
+    {
+      "id": "446-film_countries",
+      "internal_id": 446,
+      "fiona_id": "deb881e3-a998-4f44-9227-5cb794df1166",
+      "name": {
+        "ca": "Senegal",
+        "es": "Senegal",
+        "en": "Senegal"
+      }
+    },
+    {
+      "id": "447-film_countries",
+      "internal_id": 447,
+      "fiona_id": "864de381-22a1-4101-9ef8-6062e3473d52",
+      "name": {
+        "ca": "Tun\u00edsia ",
+        "es": "T\u00fanez",
+        "en": "Tunisia"
+      }
+    },
+    {
+      "id": "448-film_countries",
+      "internal_id": 448,
+      "fiona_id": "3067d14f-5c5b-4729-9faa-609bbbdb5103",
+      "name": {
+        "ca": "Estats Units",
+        "es": "Estados Unidos",
+        "en": "United States of America (the)"
+      }
+    },
+    {
+      "id": "449-film_countries",
+      "internal_id": 449,
+      "fiona_id": "205a53a7-04dc-461b-82e7-621da12ab2bd",
+      "name": {
+        "ca": "Costa Rica",
+        "es": "Costa Rica",
+        "en": "Costa Rica"
+      }
+    },
+    {
+      "id": "450-film_countries",
+      "internal_id": 450,
+      "fiona_id": "075088c7-117e-4f20-b55e-62ed14118a31",
+      "name": {
+        "ca": "Jordan",
+        "es": "Jordan",
+        "en": "Jordan"
+      }
+    },
+    {
+      "id": "452-film_countries",
+      "internal_id": 452,
+      "fiona_id": "aa4805a7-702d-4c3f-8bc6-651b9347a3e9",
+      "name": {
+        "ca": "Argentina",
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    {
+      "id": "453-film_countries",
+      "internal_id": 453,
+      "fiona_id": "912ade1a-8956-4de8-a203-692c95917892",
+      "name": {
+        "ca": "Austria",
+        "es": "Austria",
+        "en": "Austria"
+      }
+    },
+    {
+      "id": "455-film_countries",
+      "internal_id": 455,
+      "fiona_id": "61cb264e-a89a-4d53-8483-6a9742c2b619",
+      "name": {
+        "ca": "Fran\u00e7a",
+        "es": "Francia",
+        "en": "France"
+      }
+    },
+    {
+      "id": "459-film_countries",
+      "internal_id": 459,
+      "fiona_id": "bef1246d-58d0-4532-b6e7-706ac3567566",
+      "name": {
+        "ca": "Armenia",
+        "es": "Armenia",
+        "en": "Armenia"
+      }
+    },
+    {
+      "id": "469-film_countries",
+      "internal_id": 469,
+      "fiona_id": "96aaf799-7709-4ba6-8c7e-7a22f1c9422c",
+      "name": {
+        "ca": "Cambodia",
+        "es": "Cambodia",
+        "en": "Cambodia"
+      }
+    },
+    {
+      "id": "471-film_countries",
+      "internal_id": 471,
+      "fiona_id": "2226b5b6-8744-4e3f-93f2-7eb88f9e3551",
+      "name": {
+        "ca": "Chile",
+        "es": "Chile",
+        "en": "Chile"
+      }
+    },
+    {
+      "id": "472-film_countries",
+      "internal_id": 472,
+      "fiona_id": "8fe00a1f-c76b-4137-b133-7f3082d7c3e8",
+      "name": {
+        "ca": "North Macedonia",
+        "es": "North Macedonia",
+        "en": "North Macedonia"
+      }
+    },
+    {
+      "id": "473-film_countries",
+      "internal_id": 473,
+      "fiona_id": "bd4d55b6-b423-441c-aaa5-80e171a17524",
+      "name": {
+        "ca": "Lithuania",
+        "es": "Lithuania",
+        "en": "Lithuania"
+      }
+    },
+    {
+      "id": "475-film_countries",
+      "internal_id": 475,
+      "fiona_id": "31711b98-91b3-4a41-9e1c-812b870794bc",
+      "name": {
+        "ca": "Andorra",
+        "es": "Andorra",
+        "en": "Andorra"
+      }
+    },
+    {
+      "id": "478-film_countries",
+      "internal_id": 478,
+      "fiona_id": "91a48269-4f0c-427b-95b7-84ca01958180",
+      "name": {
+        "ca": "Kazakhstan",
+        "es": "Kazakhstan",
+        "en": "Kazakhstan"
+      }
+    },
+    {
+      "id": "481-film_countries",
+      "internal_id": 481,
+      "fiona_id": "fd2365d2-90fc-46b4-b930-88972f5669cd",
+      "name": {
+        "ca": "Czechia",
+        "es": "Czechia",
+        "en": "Czechia"
+      }
+    },
+    {
+      "id": "484-film_countries",
+      "internal_id": 484,
+      "fiona_id": "031a56ba-7ad3-46ff-9b0a-8c52fa6c89ab",
+      "name": {
+        "ca": "Hongria",
+        "es": "Hungr\u00eda",
+        "en": "Hungary"
+      }
+    },
+    {
+      "id": "487-film_countries",
+      "internal_id": 487,
+      "fiona_id": "fd533282-6093-4ad4-9e4a-90c6ff486644",
+      "name": {
+        "ca": "Espanya",
+        "es": "Espa\u00f1a",
+        "en": "Spain"
+      }
+    },
+    {
+      "id": "491-film_countries",
+      "internal_id": 491,
+      "fiona_id": "03182d3d-2a86-48b5-a7ee-91fee80d01b5",
+      "name": {
+        "ca": "Iceland",
+        "es": "Iceland",
+        "en": "Iceland"
+      }
+    },
+    {
+      "id": "493-film_countries",
+      "internal_id": 493,
+      "fiona_id": "c3fa413f-aecf-403a-9a97-92abfe290898",
+      "name": {
+        "ca": "Rwanda",
+        "es": "Rwanda",
+        "en": "Rwanda"
+      }
+    },
+    {
+      "id": "494-film_countries",
+      "internal_id": 494,
+      "fiona_id": "df1bcb0c-0995-4c4f-9781-9474251595e4",
+      "name": {
+        "ca": "Panama",
+        "es": "Panama",
+        "en": "Panama"
+      }
+    },
+    {
+      "id": "495-film_countries",
+      "internal_id": 495,
+      "fiona_id": "5edd8285-59ff-4f66-b673-9485d91c7076",
+      "name": {
+        "ca": "Irlanda",
+        "es": "Irlanda",
+        "en": "Ireland"
+      }
+    },
+    {
+      "id": "506-film_countries",
+      "internal_id": 506,
+      "fiona_id": "cd489831-986d-4a82-9a3b-9eebe61b7b49",
+      "name": {
+        "ca": "Austr\u00e0lia ",
+        "es": "Australia",
+        "en": "Australia"
+      }
+    },
+    {
+      "id": "508-film_countries",
+      "internal_id": 508,
+      "fiona_id": "8fd47a77-2be6-4bc2-9176-a1ca1c87ab22",
+      "name": {
+        "ca": "Peru",
+        "es": "Peru",
+        "en": "Peru"
+      }
+    },
+    {
+      "id": "509-film_countries",
+      "internal_id": 509,
+      "fiona_id": "bed4a199-d4ea-43bd-bc73-a260540b72eb",
+      "name": {
+        "ca": "Su\u00efssa",
+        "es": "Suiza",
+        "en": "Switzerland"
+      }
+    },
+    {
+      "id": "512-film_countries",
+      "internal_id": 512,
+      "fiona_id": "4c904eb1-21ad-4f69-a86c-a2e537316bba",
+      "name": {
+        "ca": "Mal\u00e0isia",
+        "es": "Malasia",
+        "en": "Malaysia"
+      }
+    },
+    {
+      "id": "513-film_countries",
+      "internal_id": 513,
+      "fiona_id": "68e580be-7a69-476a-b179-a355dd3a09ae",
+      "name": {
+        "ca": "Poland",
+        "es": "Poland",
+        "en": "Poland"
+      }
+    },
+    {
+      "id": "520-film_countries",
+      "internal_id": 520,
+      "fiona_id": "df575eb5-39ac-4aa6-8770-ab94786a163e",
+      "name": {
+        "ca": "Xina",
+        "es": "China",
+        "en": "China"
+      }
+    },
+    {
+      "id": "524-film_countries",
+      "internal_id": 524,
+      "fiona_id": "44aae911-b4e9-42d9-a42a-b00daed2a0da",
+      "name": {
+        "ca": "Corea (Rep\u00fablica de)",
+        "es": "Corea (Rep\u00fablica de)",
+        "en": "Korea (the Republic of)"
+      }
+    },
+    {
+      "id": "527-film_countries",
+      "internal_id": 527,
+      "fiona_id": "9b507bbe-3446-40a1-86b1-b23694ff2030",
+      "name": {
+        "ca": "Let\u00f2nia",
+        "es": "Letonia",
+        "en": "Latvia"
+      }
+    },
+    {
+      "id": "530-film_countries",
+      "internal_id": 530,
+      "fiona_id": "ba68fe4e-bbf4-49e4-bc39-b41bf9ef1f7c",
+      "name": {
+        "ca": "Eslov\u00e0quia",
+        "es": "Eslovaquia",
+        "en": "Slovakia"
+      }
+    },
+    {
+      "id": "535-film_countries",
+      "internal_id": 535,
+      "fiona_id": "b492ab98-25d4-44bd-88cd-b969fe4e364e",
+      "name": {
+        "ca": "Filipines",
+        "es": "Filipinas",
+        "en": "Philippines (the)"
+      }
+    },
+    {
+      "id": "536-film_countries",
+      "internal_id": 536,
+      "fiona_id": "180360ad-1d8f-460a-add6-b9a80bbbf4f1",
+      "name": {
+        "ca": "Bulgaria",
+        "es": "Bulgaria",
+        "en": "Bulgaria"
+      }
+    },
+    {
+      "id": "537-film_countries",
+      "internal_id": 537,
+      "fiona_id": "2b94de0a-c3a2-4736-b7c5-ba7864f1f815",
+      "name": {
+        "ca": "Colombia",
+        "es": "Colombia",
+        "en": "Colombia"
+      }
+    },
+    {
+      "id": "539-film_countries",
+      "internal_id": 539,
+      "fiona_id": "50d7187c-18ad-49e7-9759-bbe6533f3158",
+      "name": {
+        "ca": "Morocco",
+        "es": "Morocco",
+        "en": "Morocco"
+      }
+    },
+    {
+      "id": "542-film_countries",
+      "internal_id": 542,
+      "fiona_id": "174dc3c7-bb64-4d9e-81d0-beb35d65dc15",
+      "name": {
+        "ca": "Bosnia and Herzegovina",
+        "es": "Bosnia and Herzegovina",
+        "en": "Bosnia and Herzegovina"
+      }
+    },
+    {
+      "id": "544-film_countries",
+      "internal_id": 544,
+      "fiona_id": "3c1da51b-dfeb-4fb9-a882-c2c1a852bce2",
+      "name": {
+        "ca": "Uruguay",
+        "es": "Uruguay",
+        "en": "Uruguay"
+      }
+    },
+    {
+      "id": "545-film_countries",
+      "internal_id": 545,
+      "fiona_id": "ab3cb930-05e1-46cf-8e37-c399da5a857d",
+      "name": {
+        "ca": "Slovenia",
+        "es": "Slovenia",
+        "en": "Slovenia"
+      }
+    },
+    {
+      "id": "547-film_countries",
+      "internal_id": 547,
+      "fiona_id": "06ce991a-7e5c-4a96-96a2-c42f1618a979",
+      "name": {
+        "ca": "Alemanya",
+        "es": "Alemania",
+        "en": "Germany"
+      }
+    },
+    {
+      "id": "551-film_countries",
+      "internal_id": 551,
+      "fiona_id": "98d42bf4-f0ff-4815-bfe8-c7418a8f9430",
+      "name": {
+        "ca": "Viet Nam",
+        "es": "Viet Nam",
+        "en": "Viet Nam"
+      }
+    },
+    {
+      "id": "557-film_countries",
+      "internal_id": 557,
+      "fiona_id": "f5a16466-afba-4802-97f9-cdc9765df690",
+      "name": {
+        "ca": "Xipre",
+        "es": "Chipre",
+        "en": "Cyprus"
+      }
+    },
+    {
+      "id": "558-film_countries",
+      "internal_id": 558,
+      "fiona_id": "c603ae64-7fbf-4370-b0e1-cfe99653eeb3",
+      "name": {
+        "ca": "Hong Kong",
+        "es": "Hong Kong",
+        "en": "Hong Kong"
+      }
+    },
+    {
+      "id": "562-film_countries",
+      "internal_id": 562,
+      "fiona_id": "164f1ac8-d827-4ee5-9228-d718bcdb2685",
+      "name": {
+        "ca": "It\u00e0lia",
+        "es": "Italia",
+        "en": "Italy"
+      }
+    },
+    {
+      "id": "572-film_countries",
+      "internal_id": 572,
+      "fiona_id": "8ffc8ed0-0157-45b4-bd6e-e0f23171ad65",
+      "name": {
+        "ca": "Canad\u00e0",
+        "es": "Canad\u00e1",
+        "en": "Canada"
+      }
+    },
+    {
+      "id": "574-film_countries",
+      "internal_id": 574,
+      "fiona_id": "83420417-01f5-49aa-88fb-e186cccaef95",
+      "name": {
+        "ca": "Turquia",
+        "es": "Turqu\u00eda",
+        "en": "Turkey"
+      }
+    },
+    {
+      "id": "576-film_countries",
+      "internal_id": 576,
+      "fiona_id": "c61b213b-c2a9-4142-a15c-e224fb3c082e",
+      "name": {
+        "ca": "Qatar",
+        "es": "Qatar",
+        "en": "Qatar"
+      }
+    },
+    {
+      "id": "577-film_countries",
+      "internal_id": 577,
+      "fiona_id": "633958e5-ec50-4089-91f3-e3df04a535c9",
+      "name": {
+        "ca": "B\u00e8lgica",
+        "es": "B\u00e9lgica",
+        "en": "Belgium"
+      }
+    },
+    {
+      "id": "578-film_countries",
+      "internal_id": 578,
+      "fiona_id": "2db37994-1b7a-4e00-96f1-e5238a46bec1",
+      "name": {
+        "ca": "Singapur",
+        "es": "Singapur",
+        "en": "Singapore"
+      }
+    },
+    {
+      "id": "580-film_countries",
+      "internal_id": 580,
+      "fiona_id": "8cc65e95-8eb2-461d-b4c7-e6da7506d699",
+      "name": {
+        "ca": "Gr\u00e8cia",
+        "es": "Grecia",
+        "en": "Greece"
+      }
+    },
+    {
+      "id": "581-film_countries",
+      "internal_id": 581,
+      "fiona_id": "d58acc04-3d60-4b89-9682-e947e2b5a048",
+      "name": {
+        "ca": "Dinamarca",
+        "es": "Dinamarca",
+        "en": "Denmark"
+      }
+    },
+    {
+      "id": "582-film_countries",
+      "internal_id": 582,
+      "fiona_id": "ee102dbf-2992-4615-981b-eb2daa688059",
+      "name": {
+        "ca": "Regne Unit",
+        "es": "Reino Unido",
+        "en": "United Kingdom of Great Britain and Northern Ireland (the)"
+      }
+    },
+    {
+      "id": "585-film_countries",
+      "internal_id": 585,
+      "fiona_id": "196eb25a-bacf-4a02-bf8f-ecc47b2e4c9f",
+      "name": {
+        "ca": "Jap\u00f3",
+        "es": "Jap\u00f3n",
+        "en": "Japan"
+      }
+    },
+    {
+      "id": "586-film_countries",
+      "internal_id": 586,
+      "fiona_id": "18e22af8-4adc-44ec-8534-ecd5fea7ae86",
+      "name": {
+        "ca": "Cro\u00e0cia",
+        "es": "Croacia",
+        "en": "Croatia"
+      }
+    },
+    {
+      "id": "590-film_countries",
+      "internal_id": 590,
+      "fiona_id": "a679462f-8b43-487e-9ef8-ee01cb01097a",
+      "name": {
+        "ca": "Thailand",
+        "es": "Thailand",
+        "en": "Thailand"
+      }
+    },
+    {
+      "id": "595-film_countries",
+      "internal_id": 595,
+      "fiona_id": "e921850f-c939-4230-aae1-f1e10218b4d7",
+      "name": {
+        "ca": "Portugal",
+        "es": "Portugal",
+        "en": "Portugal"
+      }
+    },
+    {
+      "id": "597-film_countries",
+      "internal_id": 597,
+      "fiona_id": "cb07ff81-7efb-4abc-b5d5-f29e6a381b96",
+      "name": {
+        "ca": "Serbia",
+        "es": "Serbia",
+        "en": "Serbia"
+      }
+    },
+    {
+      "id": "607-film_countries",
+      "internal_id": 607,
+      "fiona_id": "703d9627-645f-45da-8004-fdfd28c2ed3d",
+      "name": {
+        "ca": "Su\u00e8cia",
+        "es": "Suecia",
+        "en": "Sweden"
+      }
+    },
+    {
+      "id": "608-film_countries",
+      "internal_id": 608,
+      "fiona_id": "245e3a01-dcf0-4ed9-afec-fe9dc1064be4",
+      "name": {
+        "ca": "Congo (Rep\u00fablica Democr\u00e0tica del)",
+        "es": "Congo (Rep\u00fablica Democr\u00e1tica del)",
+        "en": "Congo (the Democratic Republic of the)"
+      }
+    },
+    {
+      "id": "725-film_countries",
+      "internal_id": 725,
+      "fiona_id": "706d6f9a-1846-43c5-aeb0-e818cbf7c794",
+      "name": {
+        "ca": "Kosovo",
+        "es": "Kosovo",
+        "en": "Kosovo"
+      }
+    },
+    {
+      "id": "726-film_countries",
+      "internal_id": 726,
+      "fiona_id": "9abbb759-873a-4a89-a75b-f8ddec7adc48",
+      "name": {
+        "ca": "Rep\u00fablica txeca",
+        "es": "Rep\u00fablica Checa",
+        "en": "Czech Republic"
+      }
+    },
+    {
+      "id": "834-film_countries",
+      "internal_id": 834,
+      "fiona_id": "a009b4e1-6d5f-409c-bffe-a1eb6b36ea92",
+      "name": {
+        "ca": "West-Germany",
+        "es": "West-Germany",
+        "en": "West-Germany"
+      }
+    }
+  ]
+}
