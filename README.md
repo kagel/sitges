@@ -1,4 +1,5 @@
 # Sitges Film Festival Movie Parser
+![Sitges Film Festival](https://sitgesfilmfestival.com/themes/custom/sitges_barrio/logo.svg)
 
 This repository contains a Python script that reads JSON data from the Sitges Film Festival website, processes the data, applies customizable filters, and outputs a composite CSV file containing detailed information about film sessions. The script also scrapes additional director information from the festival's website.
 
