@@ -74,10 +74,6 @@ python sitges_parser.py
 
 The script will process the data, apply filters, scrape additional information, and generate an output CSV file named `composite_sessions.csv`.
 
-### Command-Line Arguments (Optional)
-
-You can modify the script to accept command-line arguments for flexibility. For example, you can specify the paths to the JSON files or the output CSV file.
-
 ## Filters
 
 The script includes filters defined in a declarative style at the top of the script. You can easily enable or disable filters and adjust their settings.
