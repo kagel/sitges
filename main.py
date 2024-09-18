@@ -1,8 +1,22 @@
 import csv
 import json
-
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
+
+# Filters (Declarative style)
+filters = {
+    'time_filter': {
+        'enabled': True,
+        'excluded_days': ['Monday', 'Tuesday', 'Wednesday', 'Thursday'],
+        'earliest_allowed_time': '15:00',
+    },
+    'category_filter': {
+        'enabled': True,
+        'types_to_exclude': ['Short film', 'Clip', 'Series', 'Teaser', 'Extra'],
+        'genres_to_exclude': ['Animation', 'Live action & Animation'],
+    },
+}
 
 # Read the JSON files
 with open('2024.json', 'r', encoding='utf-8') as f:
@@ -23,14 +37,12 @@ film_dict = {}
 for film in films_data:
     film_dict[film['id']] = film
 
-
 # Categories mapping
 def create_mapping(data_list):
     mapping = {}
     for item in data_list:
         mapping[item['id']] = item['name']
     return mapping
-
 
 genres = create_mapping(categories_data.get('genres', []))
 sections = create_mapping(categories_data.get('sections', []))
@@ -101,6 +113,20 @@ for session in sessions_data.get('sessions', []):
     session_day = session_day_names[0] if session_day_names else ''
     session_location = session_location_names[0] if session_location_names else ''
 
+    # Parse session start time for time filtering
+    session_start_datetime = datetime.strptime(session_start, '%Y-%m-%dT%H:%M:%S') if session_start else None
+
+    # Apply time filter
+    if filters['time_filter']['enabled']:
+        if session_start_datetime:
+            session_weekday = session_start_datetime.strftime('%A')  # Get day of the week as string
+            if session_weekday in filters['time_filter']['excluded_days']:
+                earliest_time = datetime.strptime(filters['time_filter']['earliest_allowed_time'], '%H:%M').time()
+                session_time = session_start_datetime.time()
+                if session_time < earliest_time:
+                    print(f"Skipping session {session_id} on {session_weekday} at {session_time} due to time filter.")
+                    continue  # Skip this session
+
     session_films = session.get('films', [])
     for film_id in session_films:
         film = film_dict.get(film_id)
@@ -114,20 +140,38 @@ for session in sessions_data.get('sessions', []):
         film_synopsis = film.get('synopsis', {}).get('en', '')
         film_credits = film.get('credits', {}).get('en', '')
 
-
         # Map IDs to names
         def get_names(id_list, mapping):
             names = [mapping.get(id_, {}).get('en', '') for id_ in id_list if id_ in mapping]
-            return '; '.join(names)
+            return names
 
+        film_genres_list = get_names(film.get('genres', []), genres)
+        film_sections_list = get_names(film.get('sections', []), sections)
+        film_categories_list = get_names(film.get('categories', []), categories)
+        film_awards_list = get_names(film.get('awards', []), awards)
+        film_types_list = get_names(film.get('types', []), types)
+        film_languages_list = get_names(film.get('languages', []), languages)
+        film_countries_list = get_names(film.get('countries', []), countries)
 
-        film_genres_str = get_names(film.get('genres', []), genres)
-        film_sections_str = get_names(film.get('sections', []), sections)
-        film_categories_str = get_names(film.get('categories', []), categories)
-        film_awards_str = get_names(film.get('awards', []), awards)
-        film_types_str = get_names(film.get('types', []), types)
-        film_languages_str = get_names(film.get('languages', []), languages)
-        film_countries_str = get_names(film.get('countries', []), countries)
+        film_genres_str = '; '.join(film_genres_list)
+        film_sections_str = '; '.join(film_sections_list)
+        film_categories_str = '; '.join(film_categories_list)
+        film_awards_str = '; '.join(film_awards_list)
+        film_types_str = '; '.join(film_types_list)
+        film_languages_str = '; '.join(film_languages_list)
+        film_countries_str = '; '.join(film_countries_list)
+
+        # Apply category filter
+        if filters['category_filter']['enabled']:
+            # Check types to exclude
+            if any(film_type in filters['category_filter']['types_to_exclude'] for film_type in film_types_list):
+                print(f"Skipping film '{film_international_title}' ({film_id}) due to type filter: {film_types_list}")
+                continue  # Skip this film
+
+            # Check genres to exclude
+            if any(film_genre in filters['category_filter']['genres_to_exclude'] for film_genre in film_genres_list):
+                print(f"Skipping film '{film_international_title}' ({film_id}) due to genre filter: {film_genres_list}")
+                continue  # Skip this film
 
         # Construct the film URL
         base_url = 'https://sitgesfilmfestival.com'
