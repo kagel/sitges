@@ -1,6 +1,9 @@
 import csv
 import json
 
+import requests
+from bs4 import BeautifulSoup
+
 # Read the JSON files
 with open('2024.json', 'r', encoding='utf-8') as f:
     films_data = json.load(f)['films']  # assuming top-level key is 'films'
@@ -61,6 +64,7 @@ header = [
     'Film Year',
     'Film Duration',
     'Film Directors',
+    'Director Biography',
     'Film Synopsis (en)',
     'Film Credits (en)',
     'Film Genres',
@@ -69,12 +73,18 @@ header = [
     'Film Awards',
     'Film Types',
     'Film Languages',
-    'Film Countries'
+    'Film Countries',
+    'Film URL'
 ]
 
 # Process sessions and films
 rows = []
+progress = 0
+
 for session in sessions_data.get('sessions', []):
+    progress += 1
+    print(f'Processing session {progress}/{len(sessions_data["sessions"])}')
+
     session_id = session.get('id', '')
     session_start = session.get('start_date', '')
     session_end = session.get('end_date', '')
@@ -119,8 +129,39 @@ for session in sessions_data.get('sessions', []):
         film_languages_str = get_names(film.get('languages', []), languages)
         film_countries_str = get_names(film.get('countries', []), countries)
 
-        # Directors are not provided in detail, so left empty
-        film_directors = ''
+        # Construct the film URL
+        base_url = 'https://sitgesfilmfestival.com'
+        film_url_path = film.get('url', {}).get('en', '')
+        film_url = base_url + film_url_path
+
+        # Scrape the director's name and biography
+        try:
+            response = requests.get(film_url)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.content, 'html.parser')
+                # Find the director's name
+                director_div = soup.find('div', id='sff-film-directors')
+                if director_div:
+                    director_name_tag = director_div.find('div', class_='field--name-node-title')
+                    if director_name_tag:
+                        director_name = director_name_tag.get_text(strip=True)
+                    else:
+                        director_name = ''
+                    # Find the director's biography
+                    bio_tag = director_div.find('div', class_='field--name-field-multi-biography')
+                    if bio_tag:
+                        director_bio = bio_tag.get_text(strip=True)
+                    else:
+                        director_bio = ''
+                else:
+                    director_name = ''
+                    director_bio = ''
+            else:
+                director_name = ''
+                director_bio = ''
+        except Exception as e:
+            director_name = ''
+            director_bio = ''
 
         # Prepare the row
         row = [
@@ -137,7 +178,8 @@ for session in sessions_data.get('sessions', []):
             film_original_title,
             film_year,
             film_duration,
-            film_directors,
+            director_name,
+            director_bio,
             film_synopsis,
             film_credits,
             film_genres_str,
@@ -146,7 +188,8 @@ for session in sessions_data.get('sessions', []):
             film_awards_str,
             film_types_str,
             film_languages_str,
-            film_countries_str
+            film_countries_str,
+            film_url
         ]
         rows.append(row)
 
