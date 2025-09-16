@@ -1,5 +1,6 @@
 import csv
 import json
+import time
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -89,13 +90,59 @@ header = [
     'Film URL'
 ]
 
+def sanitize_csv_cell(value):
+    """Mitigate CSV injection by prefixing risky leading characters."""
+    if not isinstance(value, str):
+        value = str(value) if value is not None else ''
+    if value.startswith(('=', '+', '-', '@')):
+        return "'" + value
+    return value
+
+
+def fetch_director_info(url, http_session):
+    """Fetch director name and bio from film page with retries and timeout."""
+    if not url:
+        return '', ''
+    for attempt in range(3):
+        try:
+            response = http_session.get(url, timeout=10)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.content, 'html.parser')
+                director_div = soup.find('div', id='sff-film-directors')
+                if not director_div:
+                    return '', ''
+                name_tag = director_div.find('div', class_='field--name-node-title')
+                bio_tag = director_div.find('div', class_='field--name-field-multi-biography')
+                director_name = name_tag.get_text(strip=True) if name_tag else ''
+                director_bio = bio_tag.get_text(strip=True) if bio_tag else ''
+                return director_name, director_bio
+            # Retry on transient server errors
+            if response.status_code in (429, 500, 502, 503, 504):
+                time.sleep(1.5 * (attempt + 1))
+                continue
+            return '', ''
+        except Exception:
+            time.sleep(1.5 * (attempt + 1))
+            continue
+    return '', ''
+
+
 # Process sessions and films
 rows = []
 progress = 0
 
+# Reuse a single HTTP session with a polite User-Agent
+http_session = requests.Session()
+http_session.headers.update({
+    'User-Agent': 'SitgesParser/1.0 (+https://github.com/kagel/sitges)'
+})
+
+# Cache directors per film to avoid repeated scraping across sessions
+director_cache = {}
+
 for session in sessions_data.get('sessions', []):
     progress += 1
-    print(f'Processing session {progress}/{len(sessions_data["sessions"])}')
+    print(f'Processing session {progress}/{len(sessions_data.get("sessions", []))}')
 
     session_id = session.get('id', '')
     session_start = session.get('start_date', '')
@@ -176,39 +223,18 @@ for session in sessions_data.get('sessions', []):
         # Construct the film URL
         base_url = 'https://sitgesfilmfestival.com'
         film_url_path = film.get('url', {}).get('en', '')
-        film_url = base_url + film_url_path
+        film_url = base_url + film_url_path if film_url_path else ''
 
         # Scrape the director's name and biography
-        try:
-            response = requests.get(film_url)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.content, 'html.parser')
-                # Find the director's name
-                director_div = soup.find('div', id='sff-film-directors')
-                if director_div:
-                    director_name_tag = director_div.find('div', class_='field--name-node-title')
-                    if director_name_tag:
-                        director_name = director_name_tag.get_text(strip=True)
-                    else:
-                        director_name = ''
-                    # Find the director's biography
-                    bio_tag = director_div.find('div', class_='field--name-field-multi-biography')
-                    if bio_tag:
-                        director_bio = bio_tag.get_text(strip=True)
-                    else:
-                        director_bio = ''
-                else:
-                    director_name = ''
-                    director_bio = ''
-            else:
-                director_name = ''
-                director_bio = ''
-        except Exception as e:
-            director_name = ''
-            director_bio = ''
+        cache_key = film_id
+        if cache_key in director_cache:
+            director_name, director_bio = director_cache[cache_key]
+        else:
+            director_name, director_bio = fetch_director_info(film_url, http_session)
+            director_cache[cache_key] = (director_name, director_bio)
 
         # Prepare the row
-        row = [
+        row_raw = [
             session_id,
             session_start,
             session_end,
@@ -235,6 +261,7 @@ for session in sessions_data.get('sessions', []):
             film_countries_str,
             film_url
         ]
+        row = [sanitize_csv_cell(v) for v in row_raw]
         rows.append(row)
 
 # Write to CSV file
